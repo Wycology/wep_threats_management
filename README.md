@@ -6,3 +6,5 @@ Data are available in the data folder. In that folder:
 1. fgd_threats.csv is dataset containing scores of threats from focus group discussions in each of the three study community units in Turkana County, Kenya.
 2. fgd_management.csv is dataset containing scores of possible management options from focus group discussions in each of the three study community units in Turkana County, Kenya.
 3. field_threats.csv is dataset containing scores of threats from field plot observations in each of the three study community units in Turkana County, Kenya.
+
+In the output folder, there are plots generated from the dataset.
