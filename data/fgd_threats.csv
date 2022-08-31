@@ -1,0 +1,421 @@
+site,informant,threat,rank_threat
+Nasiger,NAS1,Agricultural expansion,2
+Nasiger,NAS2,Agricultural expansion,2
+Nasiger,NAS3,Agricultural expansion,1
+Nasiger,NAS4,Agricultural expansion,2
+Nasiger,NAS5,Agricultural expansion,1
+Nasiger,NAS6,Agricultural expansion,2
+Nasiger,NAS7,Agricultural expansion,1
+Nasiger,NAS8,Agricultural expansion,1
+Nasiger,NAS9,Agricultural expansion,1
+Nasiger,NAS10,Agricultural expansion,2
+Nasiger,NAS11,Agricultural expansion,3
+Nasiger,NAS12,Agricultural expansion,3
+Nasiger,NAS13,Agricultural expansion,1
+Nasiger,NAS14,Agricultural expansion,1
+Nasiger,NAS1,Overstocking/overgrazing,7
+Nasiger,NAS2,Overstocking/overgrazing,3
+Nasiger,NAS3,Overstocking/overgrazing,4
+Nasiger,NAS4,Overstocking/overgrazing,4
+Nasiger,NAS5,Overstocking/overgrazing,4
+Nasiger,NAS6,Overstocking/overgrazing,5
+Nasiger,NAS7,Overstocking/overgrazing,4
+Nasiger,NAS8,Overstocking/overgrazing,5
+Nasiger,NAS9,Overstocking/overgrazing,6
+Nasiger,NAS10,Overstocking/overgrazing,5
+Nasiger,NAS11,Overstocking/overgrazing,4
+Nasiger,NAS12,Overstocking/overgrazing,6
+Nasiger,NAS13,Overstocking/overgrazing,5
+Nasiger,NAS14,Overstocking/overgrazing,3
+Nasiger,NAS1,Fuelwood collection/charcoal burning,4
+Nasiger,NAS2,Fuelwood collection/charcoal burning,1
+Nasiger,NAS3,Fuelwood collection/charcoal burning,2
+Nasiger,NAS4,Fuelwood collection/charcoal burning,5
+Nasiger,NAS5,Fuelwood collection/charcoal burning,4
+Nasiger,NAS6,Fuelwood collection/charcoal burning,4
+Nasiger,NAS7,Fuelwood collection/charcoal burning,3
+Nasiger,NAS8,Fuelwood collection/charcoal burning,5
+Nasiger,NAS9,Fuelwood collection/charcoal burning,4
+Nasiger,NAS10,Fuelwood collection/charcoal burning,5
+Nasiger,NAS11,Fuelwood collection/charcoal burning,2
+Nasiger,NAS12,Fuelwood collection/charcoal burning,1
+Nasiger,NAS13,Fuelwood collection/charcoal burning,1
+Nasiger,NAS14,Fuelwood collection/charcoal burning,2
+Nasiger,NAS1,Uncontrolled fire,3
+Nasiger,NAS2,Uncontrolled fire,1
+Nasiger,NAS3,Uncontrolled fire,1
+Nasiger,NAS4,Uncontrolled fire,4
+Nasiger,NAS5,Uncontrolled fire,2
+Nasiger,NAS6,Uncontrolled fire,3
+Nasiger,NAS7,Uncontrolled fire,2
+Nasiger,NAS8,Uncontrolled fire,4
+Nasiger,NAS9,Uncontrolled fire,3
+Nasiger,NAS10,Uncontrolled fire,2
+Nasiger,NAS11,Uncontrolled fire,4
+Nasiger,NAS12,Uncontrolled fire,4
+Nasiger,NAS13,Uncontrolled fire,4
+Nasiger,NAS14,Uncontrolled fire,3
+Nasiger,NAS1,Selective harvesting/Overharvesting,2
+Nasiger,NAS2,Selective harvesting/Overharvesting,5
+Nasiger,NAS3,Selective harvesting/Overharvesting,5
+Nasiger,NAS4,Selective harvesting/Overharvesting,6
+Nasiger,NAS5,Selective harvesting/Overharvesting,2
+Nasiger,NAS6,Selective harvesting/Overharvesting,5
+Nasiger,NAS7,Selective harvesting/Overharvesting,2
+Nasiger,NAS8,Selective harvesting/Overharvesting,2
+Nasiger,NAS9,Selective harvesting/Overharvesting,4
+Nasiger,NAS10,Selective harvesting/Overharvesting,2
+Nasiger,NAS11,Selective harvesting/Overharvesting,5
+Nasiger,NAS12,Selective harvesting/Overharvesting,7
+Nasiger,NAS13,Selective harvesting/Overharvesting,7
+Nasiger,NAS14,Selective harvesting/Overharvesting,7
+Nasiger,NAS1,Invasive species,6
+Nasiger,NAS2,Invasive species,6
+Nasiger,NAS3,Invasive species,8
+Nasiger,NAS4,Invasive species,4
+Nasiger,NAS5,Invasive species,7
+Nasiger,NAS6,Invasive species,9
+Nasiger,NAS7,Invasive species,7
+Nasiger,NAS8,Invasive species,7
+Nasiger,NAS9,Invasive species,6
+Nasiger,NAS10,Invasive species,4
+Nasiger,NAS11,Invasive species,8
+Nasiger,NAS12,Invasive species,8
+Nasiger,NAS13,Invasive species,4
+Nasiger,NAS14,Invasive species,4
+Nasiger,NAS1,Climate change,10
+Nasiger,NAS2,Climate change,10
+Nasiger,NAS3,Climate change,6
+Nasiger,NAS4,Climate change,6
+Nasiger,NAS5,Climate change,6
+Nasiger,NAS6,Climate change,8
+Nasiger,NAS7,Climate change,7
+Nasiger,NAS8,Climate change,10
+Nasiger,NAS9,Climate change,10
+Nasiger,NAS10,Climate change,7
+Nasiger,NAS11,Climate change,8
+Nasiger,NAS12,Climate change,10
+Nasiger,NAS13,Climate change,10
+Nasiger,NAS14,Climate change,9
+Nasiger,NAS1,Infrastructural development,2
+Nasiger,NAS2,Infrastructural development,3
+Nasiger,NAS3,Infrastructural development,3
+Nasiger,NAS4,Infrastructural development,2
+Nasiger,NAS5,Infrastructural development,1
+Nasiger,NAS6,Infrastructural development,3
+Nasiger,NAS7,Infrastructural development,2
+Nasiger,NAS8,Infrastructural development,2
+Nasiger,NAS9,Infrastructural development,2
+Nasiger,NAS10,Infrastructural development,3
+Nasiger,NAS11,Infrastructural development,3
+Nasiger,NAS12,Infrastructural development,2
+Nasiger,NAS13,Infrastructural development,2
+Nasiger,NAS14,Infrastructural development,1
+Nasiger,NAS1,Pests and diseases,2
+Nasiger,NAS2,Pests and diseases,2
+Nasiger,NAS3,Pests and diseases,3
+Nasiger,NAS4,Pests and diseases,3
+Nasiger,NAS5,Pests and diseases,3
+Nasiger,NAS6,Pests and diseases,2
+Nasiger,NAS7,Pests and diseases,1
+Nasiger,NAS8,Pests and diseases,3
+Nasiger,NAS9,Pests and diseases,3
+Nasiger,NAS10,Pests and diseases,1
+Nasiger,NAS11,Pests and diseases,1
+Nasiger,NAS12,Pests and diseases,2
+Nasiger,NAS13,Pests and diseases,3
+Nasiger,NAS14,Pests and diseases,1
+Nasiger,NAS1,Others,1
+Nasiger,NAS2,Others,1
+Nasiger,NAS3,Others,1
+Nasiger,NAS4,Others,1
+Nasiger,NAS5,Others,2
+Nasiger,NAS6,Others,1
+Nasiger,NAS7,Others,1
+Nasiger,NAS8,Others,1
+Nasiger,NAS9,Others,1
+Nasiger,NAS10,Others,2
+Nasiger,NAS11,Others,1
+Nasiger,NAS12,Others,1
+Nasiger,NAS13,Others,1
+Nasiger,NAS14,Others,1
+Atala Kamusio,ATA1,Agricultural expansion,4
+Atala Kamusio,ATA2,Agricultural expansion,3
+Atala Kamusio,ATA3,Agricultural expansion,2
+Atala Kamusio,ATA4,Agricultural expansion,4
+Atala Kamusio,ATA5,Agricultural expansion,3
+Atala Kamusio,ATA6,Agricultural expansion,2
+Atala Kamusio,ATA7,Agricultural expansion,3
+Atala Kamusio,ATA8,Agricultural expansion,1
+Atala Kamusio,ATA9,Agricultural expansion,4
+Atala Kamusio,ATA10,Agricultural expansion,3
+Atala Kamusio,ATA11,Agricultural expansion,4
+Atala Kamusio,ATA12,Agricultural expansion,1
+Atala Kamusio,ATA13,Agricultural expansion,3
+Atala Kamusio,ATA14,Agricultural expansion,1
+Atala Kamusio,ATA1,Overstocking/overgrazing,8
+Atala Kamusio,ATA2,Overstocking/overgrazing,7
+Atala Kamusio,ATA3,Overstocking/overgrazing,9
+Atala Kamusio,ATA4,Overstocking/overgrazing,6
+Atala Kamusio,ATA5,Overstocking/overgrazing,5
+Atala Kamusio,ATA6,Overstocking/overgrazing,7
+Atala Kamusio,ATA7,Overstocking/overgrazing,10
+Atala Kamusio,ATA8,Overstocking/overgrazing,6
+Atala Kamusio,ATA9,Overstocking/overgrazing,8
+Atala Kamusio,ATA10,Overstocking/overgrazing,6
+Atala Kamusio,ATA11,Overstocking/overgrazing,9
+Atala Kamusio,ATA12,Overstocking/overgrazing,5
+Atala Kamusio,ATA13,Overstocking/overgrazing,3
+Atala Kamusio,ATA14,Overstocking/overgrazing,4
+Atala Kamusio,ATA1,Fuelwood collection/charcoal burning,6
+Atala Kamusio,ATA2,Fuelwood collection/charcoal burning,7
+Atala Kamusio,ATA3,Fuelwood collection/charcoal burning,4
+Atala Kamusio,ATA4,Fuelwood collection/charcoal burning,3
+Atala Kamusio,ATA5,Fuelwood collection/charcoal burning,3
+Atala Kamusio,ATA6,Fuelwood collection/charcoal burning,6
+Atala Kamusio,ATA7,Fuelwood collection/charcoal burning,4
+Atala Kamusio,ATA8,Fuelwood collection/charcoal burning,6
+Atala Kamusio,ATA9,Fuelwood collection/charcoal burning,5
+Atala Kamusio,ATA10,Fuelwood collection/charcoal burning,4
+Atala Kamusio,ATA11,Fuelwood collection/charcoal burning,7
+Atala Kamusio,ATA12,Fuelwood collection/charcoal burning,5
+Atala Kamusio,ATA13,Fuelwood collection/charcoal burning,4
+Atala Kamusio,ATA14,Fuelwood collection/charcoal burning,5
+Atala Kamusio,ATA1,Uncontrolled fire,2
+Atala Kamusio,ATA2,Uncontrolled fire,1
+Atala Kamusio,ATA3,Uncontrolled fire,2
+Atala Kamusio,ATA4,Uncontrolled fire,1
+Atala Kamusio,ATA5,Uncontrolled fire,1
+Atala Kamusio,ATA6,Uncontrolled fire,2
+Atala Kamusio,ATA7,Uncontrolled fire,3
+Atala Kamusio,ATA8,Uncontrolled fire,1
+Atala Kamusio,ATA9,Uncontrolled fire,3
+Atala Kamusio,ATA10,Uncontrolled fire,3
+Atala Kamusio,ATA11,Uncontrolled fire,2
+Atala Kamusio,ATA12,Uncontrolled fire,1
+Atala Kamusio,ATA13,Uncontrolled fire,1
+Atala Kamusio,ATA14,Uncontrolled fire,2
+Atala Kamusio,ATA1,Selective harvesting/Overharvesting,4
+Atala Kamusio,ATA2,Selective harvesting/Overharvesting,2
+Atala Kamusio,ATA3,Selective harvesting/Overharvesting,3
+Atala Kamusio,ATA4,Selective harvesting/Overharvesting,7
+Atala Kamusio,ATA5,Selective harvesting/Overharvesting,8
+Atala Kamusio,ATA6,Selective harvesting/Overharvesting,7
+Atala Kamusio,ATA7,Selective harvesting/Overharvesting,6
+Atala Kamusio,ATA8,Selective harvesting/Overharvesting,4
+Atala Kamusio,ATA9,Selective harvesting/Overharvesting,4
+Atala Kamusio,ATA10,Selective harvesting/Overharvesting,6
+Atala Kamusio,ATA11,Selective harvesting/Overharvesting,5
+Atala Kamusio,ATA12,Selective harvesting/Overharvesting,8
+Atala Kamusio,ATA13,Selective harvesting/Overharvesting,8
+Atala Kamusio,ATA14,Selective harvesting/Overharvesting,4
+Atala Kamusio,ATA1,Invasive species,9
+Atala Kamusio,ATA2,Invasive species,8
+Atala Kamusio,ATA3,Invasive species,8
+Atala Kamusio,ATA4,Invasive species,8
+Atala Kamusio,ATA5,Invasive species,7
+Atala Kamusio,ATA6,Invasive species,9
+Atala Kamusio,ATA7,Invasive species,7
+Atala Kamusio,ATA8,Invasive species,7
+Atala Kamusio,ATA9,Invasive species,6
+Atala Kamusio,ATA10,Invasive species,6
+Atala Kamusio,ATA11,Invasive species,7
+Atala Kamusio,ATA12,Invasive species,9
+Atala Kamusio,ATA13,Invasive species,7
+Atala Kamusio,ATA14,Invasive species,6
+Atala Kamusio,ATA1,Climate change,10
+Atala Kamusio,ATA2,Climate change,10
+Atala Kamusio,ATA3,Climate change,7
+Atala Kamusio,ATA4,Climate change,10
+Atala Kamusio,ATA5,Climate change,7
+Atala Kamusio,ATA6,Climate change,9
+Atala Kamusio,ATA7,Climate change,8
+Atala Kamusio,ATA8,Climate change,7
+Atala Kamusio,ATA9,Climate change,8
+Atala Kamusio,ATA10,Climate change,6
+Atala Kamusio,ATA11,Climate change,7
+Atala Kamusio,ATA12,Climate change,6
+Atala Kamusio,ATA13,Climate change,10
+Atala Kamusio,ATA14,Climate change,6
+Atala Kamusio,ATA1,Infrastructural development,6
+Atala Kamusio,ATA2,Infrastructural development,4
+Atala Kamusio,ATA3,Infrastructural development,4
+Atala Kamusio,ATA4,Infrastructural development,4
+Atala Kamusio,ATA5,Infrastructural development,3
+Atala Kamusio,ATA6,Infrastructural development,5
+Atala Kamusio,ATA7,Infrastructural development,3
+Atala Kamusio,ATA8,Infrastructural development,5
+Atala Kamusio,ATA9,Infrastructural development,3
+Atala Kamusio,ATA10,Infrastructural development,6
+Atala Kamusio,ATA11,Infrastructural development,6
+Atala Kamusio,ATA12,Infrastructural development,5
+Atala Kamusio,ATA13,Infrastructural development,3
+Atala Kamusio,ATA14,Infrastructural development,5
+Atala Kamusio,ATA1,Pests and diseases,2
+Atala Kamusio,ATA2,Pests and diseases,1
+Atala Kamusio,ATA3,Pests and diseases,2
+Atala Kamusio,ATA4,Pests and diseases,1
+Atala Kamusio,ATA5,Pests and diseases,4
+Atala Kamusio,ATA6,Pests and diseases,3
+Atala Kamusio,ATA7,Pests and diseases,2
+Atala Kamusio,ATA8,Pests and diseases,3
+Atala Kamusio,ATA9,Pests and diseases,2
+Atala Kamusio,ATA10,Pests and diseases,2
+Atala Kamusio,ATA11,Pests and diseases,3
+Atala Kamusio,ATA12,Pests and diseases,3
+Atala Kamusio,ATA13,Pests and diseases,2
+Atala Kamusio,ATA14,Pests and diseases,3
+Atala Kamusio,ATA1,Others,2
+Atala Kamusio,ATA2,Others,1
+Atala Kamusio,ATA3,Others,2
+Atala Kamusio,ATA4,Others,1
+Atala Kamusio,ATA5,Others,1
+Atala Kamusio,ATA6,Others,2
+Atala Kamusio,ATA7,Others,1
+Atala Kamusio,ATA8,Others,1
+Atala Kamusio,ATA9,Others,1
+Atala Kamusio,ATA10,Others,2
+Atala Kamusio,ATA11,Others,1
+Atala Kamusio,ATA12,Others,1
+Atala Kamusio,ATA13,Others,2
+Atala Kamusio,ATA14,Others,1
+Lopur,LOP1,Agricultural expansion,10
+Lopur,LOP2,Agricultural expansion,8
+Lopur,LOP3,Agricultural expansion,9
+Lopur,LOP4,Agricultural expansion,9
+Lopur,LOP5,Agricultural expansion,9
+Lopur,LOP6,Agricultural expansion,8
+Lopur,LOP7,Agricultural expansion,10
+Lopur,LOP8,Agricultural expansion,8
+Lopur,LOP9,Agricultural expansion,10
+Lopur,LOP10,Agricultural expansion,10
+Lopur,LOP11,Agricultural expansion,10
+Lopur,LOP12,Agricultural expansion,10
+Lopur,LOP13,Agricultural expansion,9
+Lopur,LOP14,Agricultural expansion,10
+Lopur,LOP1,Overstocking/overgrazing,6
+Lopur,LOP2,Overstocking/overgrazing,8
+Lopur,LOP3,Overstocking/overgrazing,7
+Lopur,LOP4,Overstocking/overgrazing,8
+Lopur,LOP5,Overstocking/overgrazing,7
+Lopur,LOP6,Overstocking/overgrazing,9
+Lopur,LOP7,Overstocking/overgrazing,7
+Lopur,LOP8,Overstocking/overgrazing,6
+Lopur,LOP9,Overstocking/overgrazing,6
+Lopur,LOP10,Overstocking/overgrazing,9
+Lopur,LOP11,Overstocking/overgrazing,8
+Lopur,LOP12,Overstocking/overgrazing,9
+Lopur,LOP13,Overstocking/overgrazing,7
+Lopur,LOP14,Overstocking/overgrazing,5
+Lopur,LOP1,Fuelwood collection/charcoal burning,6
+Lopur,LOP2,Fuelwood collection/charcoal burning,9
+Lopur,LOP3,Fuelwood collection/charcoal burning,8
+Lopur,LOP4,Fuelwood collection/charcoal burning,9
+Lopur,LOP5,Fuelwood collection/charcoal burning,6
+Lopur,LOP6,Fuelwood collection/charcoal burning,7
+Lopur,LOP7,Fuelwood collection/charcoal burning,7
+Lopur,LOP8,Fuelwood collection/charcoal burning,6
+Lopur,LOP9,Fuelwood collection/charcoal burning,6
+Lopur,LOP10,Fuelwood collection/charcoal burning,6
+Lopur,LOP11,Fuelwood collection/charcoal burning,6
+Lopur,LOP12,Fuelwood collection/charcoal burning,6
+Lopur,LOP13,Fuelwood collection/charcoal burning,7
+Lopur,LOP14,Fuelwood collection/charcoal burning,8
+Lopur,LOP1,Uncontrolled fire,8
+Lopur,LOP2,Uncontrolled fire,7
+Lopur,LOP3,Uncontrolled fire,5
+Lopur,LOP4,Uncontrolled fire,7
+Lopur,LOP5,Uncontrolled fire,7
+Lopur,LOP6,Uncontrolled fire,9
+Lopur,LOP7,Uncontrolled fire,7
+Lopur,LOP8,Uncontrolled fire,6
+Lopur,LOP9,Uncontrolled fire,8
+Lopur,LOP10,Uncontrolled fire,9
+Lopur,LOP11,Uncontrolled fire,6
+Lopur,LOP12,Uncontrolled fire,8
+Lopur,LOP13,Uncontrolled fire,6
+Lopur,LOP14,Uncontrolled fire,8
+Lopur,LOP1,Selective harvesting/Overharvesting,9
+Lopur,LOP2,Selective harvesting/Overharvesting,7
+Lopur,LOP3,Selective harvesting/Overharvesting,6
+Lopur,LOP4,Selective harvesting/Overharvesting,6
+Lopur,LOP5,Selective harvesting/Overharvesting,8
+Lopur,LOP6,Selective harvesting/Overharvesting,9
+Lopur,LOP7,Selective harvesting/Overharvesting,10
+Lopur,LOP8,Selective harvesting/Overharvesting,7
+Lopur,LOP9,Selective harvesting/Overharvesting,8
+Lopur,LOP10,Selective harvesting/Overharvesting,7
+Lopur,LOP11,Selective harvesting/Overharvesting,10
+Lopur,LOP12,Selective harvesting/Overharvesting,8
+Lopur,LOP13,Selective harvesting/Overharvesting,8
+Lopur,LOP14,Selective harvesting/Overharvesting,7
+Lopur,LOP1,Invasive species,6
+Lopur,LOP2,Invasive species,6
+Lopur,LOP3,Invasive species,4
+Lopur,LOP4,Invasive species,8
+Lopur,LOP5,Invasive species,8
+Lopur,LOP6,Invasive species,10
+Lopur,LOP7,Invasive species,4
+Lopur,LOP8,Invasive species,4
+Lopur,LOP9,Invasive species,5
+Lopur,LOP10,Invasive species,7
+Lopur,LOP11,Invasive species,7
+Lopur,LOP12,Invasive species,8
+Lopur,LOP13,Invasive species,5
+Lopur,LOP14,Invasive species,7
+Lopur,LOP1,Climate change,3
+Lopur,LOP2,Climate change,4
+Lopur,LOP3,Climate change,5
+Lopur,LOP4,Climate change,3
+Lopur,LOP5,Climate change,5
+Lopur,LOP6,Climate change,3
+Lopur,LOP7,Climate change,6
+Lopur,LOP8,Climate change,5
+Lopur,LOP9,Climate change,2
+Lopur,LOP10,Climate change,5
+Lopur,LOP11,Climate change,3
+Lopur,LOP12,Climate change,3
+Lopur,LOP13,Climate change,4
+Lopur,LOP14,Climate change,6
+Lopur,LOP1,Infrastructural development,3
+Lopur,LOP2,Infrastructural development,6
+Lopur,LOP3,Infrastructural development,6
+Lopur,LOP4,Infrastructural development,3
+Lopur,LOP5,Infrastructural development,3
+Lopur,LOP6,Infrastructural development,7
+Lopur,LOP7,Infrastructural development,7
+Lopur,LOP8,Infrastructural development,7
+Lopur,LOP9,Infrastructural development,6
+Lopur,LOP10,Infrastructural development,7
+Lopur,LOP11,Infrastructural development,3
+Lopur,LOP12,Infrastructural development,4
+Lopur,LOP13,Infrastructural development,3
+Lopur,LOP14,Infrastructural development,7
+Lopur,LOP1,Pests and diseases,3
+Lopur,LOP2,Pests and diseases,4
+Lopur,LOP3,Pests and diseases,2
+Lopur,LOP4,Pests and diseases,1
+Lopur,LOP5,Pests and diseases,3
+Lopur,LOP6,Pests and diseases,4
+Lopur,LOP7,Pests and diseases,4
+Lopur,LOP8,Pests and diseases,1
+Lopur,LOP9,Pests and diseases,3
+Lopur,LOP10,Pests and diseases,2
+Lopur,LOP11,Pests and diseases,4
+Lopur,LOP12,Pests and diseases,4
+Lopur,LOP13,Pests and diseases,2
+Lopur,LOP14,Pests and diseases,4
+Lopur,LOP1,Others,1
+Lopur,LOP2,Others,1
+Lopur,LOP3,Others,1
+Lopur,LOP4,Others,2
+Lopur,LOP5,Others,1
+Lopur,LOP6,Others,1
+Lopur,LOP7,Others,1
+Lopur,LOP8,Others,1
+Lopur,LOP9,Others,1
+Lopur,LOP10,Others,3
+Lopur,LOP11,Others,1
+Lopur,LOP12,Others,1
+Lopur,LOP13,Others,1
+Lopur,LOP14,Others,1

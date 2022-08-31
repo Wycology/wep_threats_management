@@ -1,0 +1,505 @@
+site,informant,management,potential_rank
+Nasiger,NAS1,Monitor and inventor,4
+Nasiger,NAS2,Monitor and inventor,4
+Nasiger,NAS3,Monitor and inventor,2
+Nasiger,NAS4,Monitor and inventor,1
+Nasiger,NAS5,Monitor and inventor,2
+Nasiger,NAS6,Monitor and inventor,3
+Nasiger,NAS7,Monitor and inventor,1
+Nasiger,NAS8,Monitor and inventor,1
+Nasiger,NAS9,Monitor and inventor,3
+Nasiger,NAS10,Monitor and inventor,3
+Nasiger,NAS11,Monitor and inventor,4
+Nasiger,NAS12,Monitor and inventor,4
+Nasiger,NAS13,Monitor and inventor,3
+Nasiger,NAS14,Monitor and inventor,3
+Nasiger,NAS1,Establish protected areas,3
+Nasiger,NAS2,Establish protected areas,3
+Nasiger,NAS3,Establish protected areas,4
+Nasiger,NAS4,Establish protected areas,6
+Nasiger,NAS5,Establish protected areas,4
+Nasiger,NAS6,Establish protected areas,4
+Nasiger,NAS7,Establish protected areas,4
+Nasiger,NAS8,Establish protected areas,5
+Nasiger,NAS9,Establish protected areas,6
+Nasiger,NAS10,Establish protected areas,4
+Nasiger,NAS11,Establish protected areas,5
+Nasiger,NAS12,Establish protected areas,6
+Nasiger,NAS13,Establish protected areas,5
+Nasiger,NAS14,Establish protected areas,3
+Nasiger,NAS1,Prohibit charcoal burning,7
+Nasiger,NAS2,Prohibit charcoal burning,8
+Nasiger,NAS3,Prohibit charcoal burning,4
+Nasiger,NAS4,Prohibit charcoal burning,6
+Nasiger,NAS5,Prohibit charcoal burning,8
+Nasiger,NAS6,Prohibit charcoal burning,7
+Nasiger,NAS7,Prohibit charcoal burning,8
+Nasiger,NAS8,Prohibit charcoal burning,3
+Nasiger,NAS9,Prohibit charcoal burning,8
+Nasiger,NAS10,Prohibit charcoal burning,7
+Nasiger,NAS11,Prohibit charcoal burning,8
+Nasiger,NAS12,Prohibit charcoal burning,5
+Nasiger,NAS13,Prohibit charcoal burning,4
+Nasiger,NAS14,Prohibit charcoal burning,3
+Nasiger,NAS1,Create public awareness on WEPs,7
+Nasiger,NAS2,Create public awareness on WEPs,4
+Nasiger,NAS3,Create public awareness on WEPs,5
+Nasiger,NAS4,Create public awareness on WEPs,6
+Nasiger,NAS5,Create public awareness on WEPs,5
+Nasiger,NAS6,Create public awareness on WEPs,4
+Nasiger,NAS7,Create public awareness on WEPs,6
+Nasiger,NAS8,Create public awareness on WEPs,5
+Nasiger,NAS9,Create public awareness on WEPs,6
+Nasiger,NAS10,Create public awareness on WEPs,6
+Nasiger,NAS11,Create public awareness on WEPs,3
+Nasiger,NAS12,Create public awareness on WEPs,8
+Nasiger,NAS13,Create public awareness on WEPs,3
+Nasiger,NAS14,Create public awareness on WEPs,4
+Nasiger,NAS1,Cultivate WEPs,9
+Nasiger,NAS2,Cultivate WEPs,7
+Nasiger,NAS3,Cultivate WEPs,9
+Nasiger,NAS4,Cultivate WEPs,8
+Nasiger,NAS5,Cultivate WEPs,6
+Nasiger,NAS6,Cultivate WEPs,6
+Nasiger,NAS7,Cultivate WEPs,5
+Nasiger,NAS8,Cultivate WEPs,5
+Nasiger,NAS9,Cultivate WEPs,8
+Nasiger,NAS10,Cultivate WEPs,6
+Nasiger,NAS11,Cultivate WEPs,7
+Nasiger,NAS12,Cultivate WEPs,7
+Nasiger,NAS13,Cultivate WEPs,9
+Nasiger,NAS14,Cultivate WEPs,8
+Nasiger,NAS1,Preserve local knowledge about the WEPs,7
+Nasiger,NAS2,Preserve local knowledge about the WEPs,7
+Nasiger,NAS3,Preserve local knowledge about the WEPs,7
+Nasiger,NAS4,Preserve local knowledge about the WEPs,8
+Nasiger,NAS5,Preserve local knowledge about the WEPs,9
+Nasiger,NAS6,Preserve local knowledge about the WEPs,11
+Nasiger,NAS7,Preserve local knowledge about the WEPs,12
+Nasiger,NAS8,Preserve local knowledge about the WEPs,8
+Nasiger,NAS9,Preserve local knowledge about the WEPs,9
+Nasiger,NAS10,Preserve local knowledge about the WEPs,7
+Nasiger,NAS11,Preserve local knowledge about the WEPs,7
+Nasiger,NAS12,Preserve local knowledge about the WEPs,8
+Nasiger,NAS13,Preserve local knowledge about the WEPs,8
+Nasiger,NAS14,Preserve local knowledge about the WEPs,7
+Nasiger,NAS1,Control harvesting for food and fodder,6
+Nasiger,NAS2,Control harvesting for food and fodder,11
+Nasiger,NAS3,Control harvesting for food and fodder,12
+Nasiger,NAS4,Control harvesting for food and fodder,6
+Nasiger,NAS5,Control harvesting for food and fodder,10
+Nasiger,NAS6,Control harvesting for food and fodder,8
+Nasiger,NAS7,Control harvesting for food and fodder,8
+Nasiger,NAS8,Control harvesting for food and fodder,8
+Nasiger,NAS9,Control harvesting for food and fodder,7
+Nasiger,NAS10,Control harvesting for food and fodder,8
+Nasiger,NAS11,Control harvesting for food and fodder,7
+Nasiger,NAS12,Control harvesting for food and fodder,12
+Nasiger,NAS13,Control harvesting for food and fodder,9
+Nasiger,NAS14,Control harvesting for food and fodder,10
+Nasiger,NAS1,Conserve in sacred areas,5
+Nasiger,NAS2,Conserve in sacred areas,3
+Nasiger,NAS3,Conserve in sacred areas,8
+Nasiger,NAS4,Conserve in sacred areas,6
+Nasiger,NAS5,Conserve in sacred areas,7
+Nasiger,NAS6,Conserve in sacred areas,4
+Nasiger,NAS7,Conserve in sacred areas,7
+Nasiger,NAS8,Conserve in sacred areas,4
+Nasiger,NAS9,Conserve in sacred areas,5
+Nasiger,NAS10,Conserve in sacred areas,5
+Nasiger,NAS11,Conserve in sacred areas,5
+Nasiger,NAS12,Conserve in sacred areas,8
+Nasiger,NAS13,Conserve in sacred areas,7
+Nasiger,NAS14,Conserve in sacred areas,6
+Nasiger,NAS1,Assess nutrition and toxicity,7
+Nasiger,NAS2,Assess nutrition and toxicity,6
+Nasiger,NAS3,Assess nutrition and toxicity,10
+Nasiger,NAS4,Assess nutrition and toxicity,8
+Nasiger,NAS5,Assess nutrition and toxicity,6
+Nasiger,NAS6,Assess nutrition and toxicity,9
+Nasiger,NAS7,Assess nutrition and toxicity,8
+Nasiger,NAS8,Assess nutrition and toxicity,6
+Nasiger,NAS9,Assess nutrition and toxicity,7
+Nasiger,NAS10,Assess nutrition and toxicity,8
+Nasiger,NAS11,Assess nutrition and toxicity,9
+Nasiger,NAS12,Assess nutrition and toxicity,9
+Nasiger,NAS13,Assess nutrition and toxicity,7
+Nasiger,NAS14,Assess nutrition and toxicity,10
+Nasiger,NAS1,"Selection, propagation, processing and marketing",10
+Nasiger,NAS2,"Selection, propagation, processing and marketing",6
+Nasiger,NAS3,"Selection, propagation, processing and marketing",9
+Nasiger,NAS4,"Selection, propagation, processing and marketing",6
+Nasiger,NAS5,"Selection, propagation, processing and marketing",6
+Nasiger,NAS6,"Selection, propagation, processing and marketing",7
+Nasiger,NAS7,"Selection, propagation, processing and marketing",6
+Nasiger,NAS8,"Selection, propagation, processing and marketing",12
+Nasiger,NAS9,"Selection, propagation, processing and marketing",7
+Nasiger,NAS10,"Selection, propagation, processing and marketing",6
+Nasiger,NAS11,"Selection, propagation, processing and marketing",11
+Nasiger,NAS12,"Selection, propagation, processing and marketing",8
+Nasiger,NAS13,"Selection, propagation, processing and marketing",6
+Nasiger,NAS14,"Selection, propagation, processing and marketing",10
+Nasiger,NAS1,Mitigate climate change,12
+Nasiger,NAS2,Mitigate climate change,9
+Nasiger,NAS3,Mitigate climate change,6
+Nasiger,NAS4,Mitigate climate change,9
+Nasiger,NAS5,Mitigate climate change,7
+Nasiger,NAS6,Mitigate climate change,8
+Nasiger,NAS7,Mitigate climate change,10
+Nasiger,NAS8,Mitigate climate change,10
+Nasiger,NAS9,Mitigate climate change,6
+Nasiger,NAS10,Mitigate climate change,10
+Nasiger,NAS11,Mitigate climate change,5
+Nasiger,NAS12,Mitigate climate change,6
+Nasiger,NAS13,Mitigate climate change,6
+Nasiger,NAS14,Mitigate climate change,9
+Nasiger,NAS1,Others,4
+Nasiger,NAS2,Others,2
+Nasiger,NAS3,Others,2
+Nasiger,NAS4,Others,2
+Nasiger,NAS5,Others,4
+Nasiger,NAS6,Others,3
+Nasiger,NAS7,Others,2
+Nasiger,NAS8,Others,2
+Nasiger,NAS9,Others,1
+Nasiger,NAS10,Others,3
+Nasiger,NAS11,Others,2
+Nasiger,NAS12,Others,4
+Nasiger,NAS13,Others,4
+Nasiger,NAS14,Others,4
+Atala Kamusio,ATA1,Monitor and inventor,1
+Atala Kamusio,ATA2,Monitor and inventor,3
+Atala Kamusio,ATA3,Monitor and inventor,3
+Atala Kamusio,ATA4,Monitor and inventor,2
+Atala Kamusio,ATA5,Monitor and inventor,1
+Atala Kamusio,ATA6,Monitor and inventor,2
+Atala Kamusio,ATA7,Monitor and inventor,2
+Atala Kamusio,ATA8,Monitor and inventor,4
+Atala Kamusio,ATA9,Monitor and inventor,1
+Atala Kamusio,ATA10,Monitor and inventor,3
+Atala Kamusio,ATA11,Monitor and inventor,4
+Atala Kamusio,ATA12,Monitor and inventor,4
+Atala Kamusio,ATA13,Monitor and inventor,4
+Atala Kamusio,ATA14,Monitor and inventor,1
+Atala Kamusio,ATA1,Establish protected areas,4
+Atala Kamusio,ATA2,Establish protected areas,4
+Atala Kamusio,ATA3,Establish protected areas,1
+Atala Kamusio,ATA4,Establish protected areas,2
+Atala Kamusio,ATA5,Establish protected areas,1
+Atala Kamusio,ATA6,Establish protected areas,6
+Atala Kamusio,ATA7,Establish protected areas,3
+Atala Kamusio,ATA8,Establish protected areas,5
+Atala Kamusio,ATA9,Establish protected areas,5
+Atala Kamusio,ATA10,Establish protected areas,2
+Atala Kamusio,ATA11,Establish protected areas,2
+Atala Kamusio,ATA12,Establish protected areas,3
+Atala Kamusio,ATA13,Establish protected areas,2
+Atala Kamusio,ATA14,Establish protected areas,6
+Atala Kamusio,ATA1,Prohibit charcoal burning,11
+Atala Kamusio,ATA2,Prohibit charcoal burning,9
+Atala Kamusio,ATA3,Prohibit charcoal burning,9
+Atala Kamusio,ATA4,Prohibit charcoal burning,10
+Atala Kamusio,ATA5,Prohibit charcoal burning,8
+Atala Kamusio,ATA6,Prohibit charcoal burning,9
+Atala Kamusio,ATA7,Prohibit charcoal burning,8
+Atala Kamusio,ATA8,Prohibit charcoal burning,10
+Atala Kamusio,ATA9,Prohibit charcoal burning,12
+Atala Kamusio,ATA10,Prohibit charcoal burning,10
+Atala Kamusio,ATA11,Prohibit charcoal burning,8
+Atala Kamusio,ATA12,Prohibit charcoal burning,10
+Atala Kamusio,ATA13,Prohibit charcoal burning,11
+Atala Kamusio,ATA14,Prohibit charcoal burning,11
+Atala Kamusio,ATA1,Create public awareness on WEPs,8
+Atala Kamusio,ATA2,Create public awareness on WEPs,11
+Atala Kamusio,ATA3,Create public awareness on WEPs,9
+Atala Kamusio,ATA4,Create public awareness on WEPs,6
+Atala Kamusio,ATA5,Create public awareness on WEPs,9
+Atala Kamusio,ATA6,Create public awareness on WEPs,9
+Atala Kamusio,ATA7,Create public awareness on WEPs,8
+Atala Kamusio,ATA8,Create public awareness on WEPs,8
+Atala Kamusio,ATA9,Create public awareness on WEPs,7
+Atala Kamusio,ATA10,Create public awareness on WEPs,5
+Atala Kamusio,ATA11,Create public awareness on WEPs,9
+Atala Kamusio,ATA12,Create public awareness on WEPs,7
+Atala Kamusio,ATA13,Create public awareness on WEPs,7
+Atala Kamusio,ATA14,Create public awareness on WEPs,6
+Atala Kamusio,ATA1,Cultivate WEPs,10
+Atala Kamusio,ATA2,Cultivate WEPs,11
+Atala Kamusio,ATA3,Cultivate WEPs,10
+Atala Kamusio,ATA4,Cultivate WEPs,10
+Atala Kamusio,ATA5,Cultivate WEPs,9
+Atala Kamusio,ATA6,Cultivate WEPs,11
+Atala Kamusio,ATA7,Cultivate WEPs,11
+Atala Kamusio,ATA8,Cultivate WEPs,11
+Atala Kamusio,ATA9,Cultivate WEPs,9
+Atala Kamusio,ATA10,Cultivate WEPs,10
+Atala Kamusio,ATA11,Cultivate WEPs,10
+Atala Kamusio,ATA12,Cultivate WEPs,7
+Atala Kamusio,ATA13,Cultivate WEPs,10
+Atala Kamusio,ATA14,Cultivate WEPs,10
+Atala Kamusio,ATA1,Preserve local knowledge about the WEPs,10
+Atala Kamusio,ATA2,Preserve local knowledge about the WEPs,10
+Atala Kamusio,ATA3,Preserve local knowledge about the WEPs,10
+Atala Kamusio,ATA4,Preserve local knowledge about the WEPs,9
+Atala Kamusio,ATA5,Preserve local knowledge about the WEPs,12
+Atala Kamusio,ATA6,Preserve local knowledge about the WEPs,8
+Atala Kamusio,ATA7,Preserve local knowledge about the WEPs,12
+Atala Kamusio,ATA8,Preserve local knowledge about the WEPs,10
+Atala Kamusio,ATA9,Preserve local knowledge about the WEPs,11
+Atala Kamusio,ATA10,Preserve local knowledge about the WEPs,8
+Atala Kamusio,ATA11,Preserve local knowledge about the WEPs,8
+Atala Kamusio,ATA12,Preserve local knowledge about the WEPs,10
+Atala Kamusio,ATA13,Preserve local knowledge about the WEPs,9
+Atala Kamusio,ATA14,Preserve local knowledge about the WEPs,10
+Atala Kamusio,ATA1,Control harvesting for food and fodder,9
+Atala Kamusio,ATA2,Control harvesting for food and fodder,7
+Atala Kamusio,ATA3,Control harvesting for food and fodder,7
+Atala Kamusio,ATA4,Control harvesting for food and fodder,10
+Atala Kamusio,ATA5,Control harvesting for food and fodder,9
+Atala Kamusio,ATA6,Control harvesting for food and fodder,8
+Atala Kamusio,ATA7,Control harvesting for food and fodder,10
+Atala Kamusio,ATA8,Control harvesting for food and fodder,10
+Atala Kamusio,ATA9,Control harvesting for food and fodder,7
+Atala Kamusio,ATA10,Control harvesting for food and fodder,12
+Atala Kamusio,ATA11,Control harvesting for food and fodder,7
+Atala Kamusio,ATA12,Control harvesting for food and fodder,10
+Atala Kamusio,ATA13,Control harvesting for food and fodder,8
+Atala Kamusio,ATA14,Control harvesting for food and fodder,7
+Atala Kamusio,ATA1,Conserve in sacred areas,7
+Atala Kamusio,ATA2,Conserve in sacred areas,6
+Atala Kamusio,ATA3,Conserve in sacred areas,6
+Atala Kamusio,ATA4,Conserve in sacred areas,7
+Atala Kamusio,ATA5,Conserve in sacred areas,8
+Atala Kamusio,ATA6,Conserve in sacred areas,9
+Atala Kamusio,ATA7,Conserve in sacred areas,7
+Atala Kamusio,ATA8,Conserve in sacred areas,6
+Atala Kamusio,ATA9,Conserve in sacred areas,8
+Atala Kamusio,ATA10,Conserve in sacred areas,8
+Atala Kamusio,ATA11,Conserve in sacred areas,7
+Atala Kamusio,ATA12,Conserve in sacred areas,6
+Atala Kamusio,ATA13,Conserve in sacred areas,8
+Atala Kamusio,ATA14,Conserve in sacred areas,9
+Atala Kamusio,ATA1,Assess nutrition and toxicity,8
+Atala Kamusio,ATA2,Assess nutrition and toxicity,10
+Atala Kamusio,ATA3,Assess nutrition and toxicity,6
+Atala Kamusio,ATA4,Assess nutrition and toxicity,6
+Atala Kamusio,ATA5,Assess nutrition and toxicity,10
+Atala Kamusio,ATA6,Assess nutrition and toxicity,6
+Atala Kamusio,ATA7,Assess nutrition and toxicity,7
+Atala Kamusio,ATA8,Assess nutrition and toxicity,7
+Atala Kamusio,ATA9,Assess nutrition and toxicity,6
+Atala Kamusio,ATA10,Assess nutrition and toxicity,6
+Atala Kamusio,ATA11,Assess nutrition and toxicity,7
+Atala Kamusio,ATA12,Assess nutrition and toxicity,10
+Atala Kamusio,ATA13,Assess nutrition and toxicity,11
+Atala Kamusio,ATA14,Assess nutrition and toxicity,7
+Atala Kamusio,ATA1,"Selection, propagation, processing and marketing",9
+Atala Kamusio,ATA2,"Selection, propagation, processing and marketing",10
+Atala Kamusio,ATA3,"Selection, propagation, processing and marketing",10
+Atala Kamusio,ATA4,"Selection, propagation, processing and marketing",10
+Atala Kamusio,ATA5,"Selection, propagation, processing and marketing",8
+Atala Kamusio,ATA6,"Selection, propagation, processing and marketing",11
+Atala Kamusio,ATA7,"Selection, propagation, processing and marketing",11
+Atala Kamusio,ATA8,"Selection, propagation, processing and marketing",9
+Atala Kamusio,ATA9,"Selection, propagation, processing and marketing",11
+Atala Kamusio,ATA10,"Selection, propagation, processing and marketing",10
+Atala Kamusio,ATA11,"Selection, propagation, processing and marketing",8
+Atala Kamusio,ATA12,"Selection, propagation, processing and marketing",11
+Atala Kamusio,ATA13,"Selection, propagation, processing and marketing",8
+Atala Kamusio,ATA14,"Selection, propagation, processing and marketing",10
+Atala Kamusio,ATA1,Mitigate climate change,10
+Atala Kamusio,ATA2,Mitigate climate change,9
+Atala Kamusio,ATA3,Mitigate climate change,10
+Atala Kamusio,ATA4,Mitigate climate change,9
+Atala Kamusio,ATA5,Mitigate climate change,11
+Atala Kamusio,ATA6,Mitigate climate change,10
+Atala Kamusio,ATA7,Mitigate climate change,10
+Atala Kamusio,ATA8,Mitigate climate change,9
+Atala Kamusio,ATA9,Mitigate climate change,11
+Atala Kamusio,ATA10,Mitigate climate change,10
+Atala Kamusio,ATA11,Mitigate climate change,10
+Atala Kamusio,ATA12,Mitigate climate change,9
+Atala Kamusio,ATA13,Mitigate climate change,11
+Atala Kamusio,ATA14,Mitigate climate change,9
+Atala Kamusio,ATA1,Others,4
+Atala Kamusio,ATA2,Others,4
+Atala Kamusio,ATA3,Others,2
+Atala Kamusio,ATA4,Others,2
+Atala Kamusio,ATA5,Others,3
+Atala Kamusio,ATA6,Others,2
+Atala Kamusio,ATA7,Others,4
+Atala Kamusio,ATA8,Others,4
+Atala Kamusio,ATA9,Others,3
+Atala Kamusio,ATA10,Others,3
+Atala Kamusio,ATA11,Others,1
+Atala Kamusio,ATA12,Others,2
+Atala Kamusio,ATA13,Others,3
+Atala Kamusio,ATA14,Others,1
+Lopur,LOP1,Monitor and inventor,4
+Lopur,LOP2,Monitor and inventor,2
+Lopur,LOP3,Monitor and inventor,4
+Lopur,LOP4,Monitor and inventor,4
+Lopur,LOP5,Monitor and inventor,1
+Lopur,LOP6,Monitor and inventor,4
+Lopur,LOP7,Monitor and inventor,1
+Lopur,LOP8,Monitor and inventor,3
+Lopur,LOP9,Monitor and inventor,4
+Lopur,LOP10,Monitor and inventor,3
+Lopur,LOP11,Monitor and inventor,3
+Lopur,LOP12,Monitor and inventor,3
+Lopur,LOP13,Monitor and inventor,3
+Lopur,LOP14,Monitor and inventor,4
+Lopur,LOP1,Establish protected areas,8
+Lopur,LOP2,Establish protected areas,4
+Lopur,LOP3,Establish protected areas,7
+Lopur,LOP4,Establish protected areas,8
+Lopur,LOP5,Establish protected areas,10
+Lopur,LOP6,Establish protected areas,9
+Lopur,LOP7,Establish protected areas,5
+Lopur,LOP8,Establish protected areas,8
+Lopur,LOP9,Establish protected areas,4
+Lopur,LOP10,Establish protected areas,5
+Lopur,LOP11,Establish protected areas,9
+Lopur,LOP12,Establish protected areas,9
+Lopur,LOP13,Establish protected areas,8
+Lopur,LOP14,Establish protected areas,8
+Lopur,LOP1,Prohibit charcoal burning,9
+Lopur,LOP2,Prohibit charcoal burning,8
+Lopur,LOP3,Prohibit charcoal burning,9
+Lopur,LOP4,Prohibit charcoal burning,10
+Lopur,LOP5,Prohibit charcoal burning,12
+Lopur,LOP6,Prohibit charcoal burning,7
+Lopur,LOP7,Prohibit charcoal burning,8
+Lopur,LOP8,Prohibit charcoal burning,8
+Lopur,LOP9,Prohibit charcoal burning,10
+Lopur,LOP10,Prohibit charcoal burning,10
+Lopur,LOP11,Prohibit charcoal burning,12
+Lopur,LOP12,Prohibit charcoal burning,9
+Lopur,LOP13,Prohibit charcoal burning,7
+Lopur,LOP14,Prohibit charcoal burning,12
+Lopur,LOP1,Create public awareness on WEPs,7
+Lopur,LOP2,Create public awareness on WEPs,8
+Lopur,LOP3,Create public awareness on WEPs,9
+Lopur,LOP4,Create public awareness on WEPs,8
+Lopur,LOP5,Create public awareness on WEPs,10
+Lopur,LOP6,Create public awareness on WEPs,10
+Lopur,LOP7,Create public awareness on WEPs,8
+Lopur,LOP8,Create public awareness on WEPs,8
+Lopur,LOP9,Create public awareness on WEPs,9
+Lopur,LOP10,Create public awareness on WEPs,9
+Lopur,LOP11,Create public awareness on WEPs,8
+Lopur,LOP12,Create public awareness on WEPs,12
+Lopur,LOP13,Create public awareness on WEPs,9
+Lopur,LOP14,Create public awareness on WEPs,9
+Lopur,LOP1,Cultivate WEPs,9
+Lopur,LOP2,Cultivate WEPs,9
+Lopur,LOP3,Cultivate WEPs,8
+Lopur,LOP4,Cultivate WEPs,11
+Lopur,LOP5,Cultivate WEPs,9
+Lopur,LOP6,Cultivate WEPs,10
+Lopur,LOP7,Cultivate WEPs,7
+Lopur,LOP8,Cultivate WEPs,10
+Lopur,LOP9,Cultivate WEPs,10
+Lopur,LOP10,Cultivate WEPs,7
+Lopur,LOP11,Cultivate WEPs,12
+Lopur,LOP12,Cultivate WEPs,7
+Lopur,LOP13,Cultivate WEPs,11
+Lopur,LOP14,Cultivate WEPs,11
+Lopur,LOP1,Preserve local knowledge about the WEPs,12
+Lopur,LOP2,Preserve local knowledge about the WEPs,9
+Lopur,LOP3,Preserve local knowledge about the WEPs,10
+Lopur,LOP4,Preserve local knowledge about the WEPs,8
+Lopur,LOP5,Preserve local knowledge about the WEPs,7
+Lopur,LOP6,Preserve local knowledge about the WEPs,12
+Lopur,LOP7,Preserve local knowledge about the WEPs,10
+Lopur,LOP8,Preserve local knowledge about the WEPs,8
+Lopur,LOP9,Preserve local knowledge about the WEPs,7
+Lopur,LOP10,Preserve local knowledge about the WEPs,10
+Lopur,LOP11,Preserve local knowledge about the WEPs,9
+Lopur,LOP12,Preserve local knowledge about the WEPs,10
+Lopur,LOP13,Preserve local knowledge about the WEPs,7
+Lopur,LOP14,Preserve local knowledge about the WEPs,11
+Lopur,LOP1,Control harvesting for food and fodder,9
+Lopur,LOP2,Control harvesting for food and fodder,9
+Lopur,LOP3,Control harvesting for food and fodder,6
+Lopur,LOP4,Control harvesting for food and fodder,10
+Lopur,LOP5,Control harvesting for food and fodder,8
+Lopur,LOP6,Control harvesting for food and fodder,12
+Lopur,LOP7,Control harvesting for food and fodder,8
+Lopur,LOP8,Control harvesting for food and fodder,10
+Lopur,LOP9,Control harvesting for food and fodder,8
+Lopur,LOP10,Control harvesting for food and fodder,9
+Lopur,LOP11,Control harvesting for food and fodder,9
+Lopur,LOP12,Control harvesting for food and fodder,5
+Lopur,LOP13,Control harvesting for food and fodder,9
+Lopur,LOP14,Control harvesting for food and fodder,7
+Lopur,LOP1,Conserve in sacred areas,9
+Lopur,LOP2,Conserve in sacred areas,4
+Lopur,LOP3,Conserve in sacred areas,5
+Lopur,LOP4,Conserve in sacred areas,6
+Lopur,LOP5,Conserve in sacred areas,7
+Lopur,LOP6,Conserve in sacred areas,4
+Lopur,LOP7,Conserve in sacred areas,4
+Lopur,LOP8,Conserve in sacred areas,3
+Lopur,LOP9,Conserve in sacred areas,3
+Lopur,LOP10,Conserve in sacred areas,3
+Lopur,LOP11,Conserve in sacred areas,8
+Lopur,LOP12,Conserve in sacred areas,7
+Lopur,LOP13,Conserve in sacred areas,5
+Lopur,LOP14,Conserve in sacred areas,8
+Lopur,LOP1,Assess nutrition and toxicity,8
+Lopur,LOP2,Assess nutrition and toxicity,7
+Lopur,LOP3,Assess nutrition and toxicity,8
+Lopur,LOP4,Assess nutrition and toxicity,8
+Lopur,LOP5,Assess nutrition and toxicity,7
+Lopur,LOP6,Assess nutrition and toxicity,9
+Lopur,LOP7,Assess nutrition and toxicity,10
+Lopur,LOP8,Assess nutrition and toxicity,7
+Lopur,LOP9,Assess nutrition and toxicity,8
+Lopur,LOP10,Assess nutrition and toxicity,10
+Lopur,LOP11,Assess nutrition and toxicity,9
+Lopur,LOP12,Assess nutrition and toxicity,9
+Lopur,LOP13,Assess nutrition and toxicity,5
+Lopur,LOP14,Assess nutrition and toxicity,9
+Lopur,LOP1,"Selection, propagation, processing and marketing",7
+Lopur,LOP2,"Selection, propagation, processing and marketing",12
+Lopur,LOP3,"Selection, propagation, processing and marketing",11
+Lopur,LOP4,"Selection, propagation, processing and marketing",12
+Lopur,LOP5,"Selection, propagation, processing and marketing",9
+Lopur,LOP6,"Selection, propagation, processing and marketing",10
+Lopur,LOP7,"Selection, propagation, processing and marketing",9
+Lopur,LOP8,"Selection, propagation, processing and marketing",6
+Lopur,LOP9,"Selection, propagation, processing and marketing",7
+Lopur,LOP10,"Selection, propagation, processing and marketing",10
+Lopur,LOP11,"Selection, propagation, processing and marketing",8
+Lopur,LOP12,"Selection, propagation, processing and marketing",12
+Lopur,LOP13,"Selection, propagation, processing and marketing",10
+Lopur,LOP14,"Selection, propagation, processing and marketing",9
+Lopur,LOP1,Mitigate climate change,12
+Lopur,LOP2,Mitigate climate change,12
+Lopur,LOP3,Mitigate climate change,7
+Lopur,LOP4,Mitigate climate change,6
+Lopur,LOP5,Mitigate climate change,10
+Lopur,LOP6,Mitigate climate change,10
+Lopur,LOP7,Mitigate climate change,6
+Lopur,LOP8,Mitigate climate change,11
+Lopur,LOP9,Mitigate climate change,8
+Lopur,LOP10,Mitigate climate change,12
+Lopur,LOP11,Mitigate climate change,8
+Lopur,LOP12,Mitigate climate change,10
+Lopur,LOP13,Mitigate climate change,9
+Lopur,LOP14,Mitigate climate change,12
+Lopur,LOP1,Others,3
+Lopur,LOP2,Others,3
+Lopur,LOP3,Others,3
+Lopur,LOP4,Others,1
+Lopur,LOP5,Others,3
+Lopur,LOP6,Others,1
+Lopur,LOP7,Others,2
+Lopur,LOP8,Others,2
+Lopur,LOP9,Others,3
+Lopur,LOP10,Others,2
+Lopur,LOP11,Others,2
+Lopur,LOP12,Others,2
+Lopur,LOP13,Others,3
+Lopur,LOP14,Others,1

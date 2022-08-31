@@ -1,0 +1,2161 @@
+plot_id,site,threat,rank_threat
+"NAS_1",Nasiger,Agricultural expansion,1
+"NAS_2",Nasiger,Agricultural expansion,1
+"NAS_3",Nasiger,Agricultural expansion,1
+"NAS_4",Nasiger,Agricultural expansion,1
+"NAS_5",Nasiger,Agricultural expansion,1
+"NAS_6",Nasiger,Agricultural expansion,1
+"NAS_7",Nasiger,Agricultural expansion,1
+"NAS_8",Nasiger,Agricultural expansion,1
+"NAS_9",Nasiger,Agricultural expansion,1
+"NAS_10",Nasiger,Agricultural expansion,1
+"NAS_11",Nasiger,Agricultural expansion,1
+"NAS_12",Nasiger,Agricultural expansion,1
+"NAS_13",Nasiger,Agricultural expansion,1
+"NAS_14",Nasiger,Agricultural expansion,1
+"NAS_15",Nasiger,Agricultural expansion,1
+"NAS_16",Nasiger,Agricultural expansion,1
+"NAS_17",Nasiger,Agricultural expansion,1
+"NAS_18",Nasiger,Agricultural expansion,1
+"NAS_19",Nasiger,Agricultural expansion,1
+"NAS_20",Nasiger,Agricultural expansion,1
+"NAS_21",Nasiger,Agricultural expansion,1
+"NAS_22",Nasiger,Agricultural expansion,1
+"NAS_23",Nasiger,Agricultural expansion,1
+"NAS_24",Nasiger,Agricultural expansion,1
+"NAS_25",Nasiger,Agricultural expansion,1
+"NAS_26",Nasiger,Agricultural expansion,1
+"NAS_27",Nasiger,Agricultural expansion,1
+"NAS_28",Nasiger,Agricultural expansion,1
+"NAS_29",Nasiger,Agricultural expansion,1
+"NAS_30",Nasiger,Agricultural expansion,1
+"NAS_31",Nasiger,Agricultural expansion,1
+"NAS_32",Nasiger,Agricultural expansion,1
+"NAS_33",Nasiger,Agricultural expansion,1
+"NAS_34",Nasiger,Agricultural expansion,1
+"NAS_35",Nasiger,Agricultural expansion,1
+"NAS_36",Nasiger,Agricultural expansion,1
+"NAS_37",Nasiger,Agricultural expansion,1
+"NAS_38",Nasiger,Agricultural expansion,1
+"NAS_39",Nasiger,Agricultural expansion,1
+"NAS_40",Nasiger,Agricultural expansion,1
+"NAS_41",Nasiger,Agricultural expansion,1
+"NAS_42",Nasiger,Agricultural expansion,1
+"NAS_43",Nasiger,Agricultural expansion,1
+"NAS_44",Nasiger,Agricultural expansion,1
+"NAS_45",Nasiger,Agricultural expansion,1
+"NAS_46",Nasiger,Agricultural expansion,1
+"NAS_47",Nasiger,Agricultural expansion,1
+"NAS_48",Nasiger,Agricultural expansion,1
+"NAS_49",Nasiger,Agricultural expansion,1
+"NAS_50",Nasiger,Agricultural expansion,1
+"NAS_51",Nasiger,Agricultural expansion,1
+"NAS_52",Nasiger,Agricultural expansion,1
+"NAS_53",Nasiger,Agricultural expansion,1
+"NAS_54",Nasiger,Agricultural expansion,1
+"NAS_55",Nasiger,Agricultural expansion,1
+"NAS_56",Nasiger,Agricultural expansion,1
+"NAS_57",Nasiger,Agricultural expansion,1
+"NAS_58",Nasiger,Agricultural expansion,1
+"NAS_59",Nasiger,Agricultural expansion,1
+"NAS_60",Nasiger,Agricultural expansion,1
+"NAS_61",Nasiger,Agricultural expansion,1
+"NAS_62",Nasiger,Agricultural expansion,1
+"NAS_63",Nasiger,Agricultural expansion,1
+"NAS_64",Nasiger,Agricultural expansion,1
+"NAS_65",Nasiger,Agricultural expansion,1
+"NAS_66",Nasiger,Agricultural expansion,1
+"NAS_67",Nasiger,Agricultural expansion,1
+"NAS_68",Nasiger,Agricultural expansion,1
+"NAS_69",Nasiger,Agricultural expansion,1
+"NAS_70",Nasiger,Agricultural expansion,1
+"NAS_71",Nasiger,Agricultural expansion,1
+"NAS_72",Nasiger,Agricultural expansion,1
+"NAS_73",Nasiger,Agricultural expansion,1
+"NAS_74",Nasiger,Agricultural expansion,1
+"NAS_75",Nasiger,Agricultural expansion,1
+"NAS_76",Nasiger,Agricultural expansion,1
+"NAS_77",Nasiger,Agricultural expansion,1
+"NAS_78",Nasiger,Agricultural expansion,1
+"NAS_79",Nasiger,Agricultural expansion,1
+"NAS_80",Nasiger,Agricultural expansion,1
+ATA_1,Atala Kamusio,Agricultural expansion,3
+ATA_2,Atala Kamusio,Agricultural expansion,2
+ATA_3,Atala Kamusio,Agricultural expansion,3
+ATA_4,Atala Kamusio,Agricultural expansion,1
+ATA_5,Atala Kamusio,Agricultural expansion,3
+ATA_6,Atala Kamusio,Agricultural expansion,2
+ATA_7,Atala Kamusio,Agricultural expansion,2
+ATA_8,Atala Kamusio,Agricultural expansion,2
+ATA_9,Atala Kamusio,Agricultural expansion,1
+ATA_10,Atala Kamusio,Agricultural expansion,3
+ATA_11,Atala Kamusio,Agricultural expansion,3
+ATA_12,Atala Kamusio,Agricultural expansion,1
+ATA_13,Atala Kamusio,Agricultural expansion,2
+ATA_14,Atala Kamusio,Agricultural expansion,2
+ATA_15,Atala Kamusio,Agricultural expansion,1
+ATA_16,Atala Kamusio,Agricultural expansion,2
+ATA_17,Atala Kamusio,Agricultural expansion,2
+ATA_18,Atala Kamusio,Agricultural expansion,2
+ATA_19,Atala Kamusio,Agricultural expansion,3
+ATA_20,Atala Kamusio,Agricultural expansion,2
+ATA_21,Atala Kamusio,Agricultural expansion,2
+ATA_22,Atala Kamusio,Agricultural expansion,3
+ATA_23,Atala Kamusio,Agricultural expansion,1
+ATA_24,Atala Kamusio,Agricultural expansion,2
+ATA_25,Atala Kamusio,Agricultural expansion,1
+ATA_26,Atala Kamusio,Agricultural expansion,2
+ATA_27,Atala Kamusio,Agricultural expansion,1
+ATA_28,Atala Kamusio,Agricultural expansion,2
+ATA_29,Atala Kamusio,Agricultural expansion,3
+ATA_30,Atala Kamusio,Agricultural expansion,1
+ATA_31,Atala Kamusio,Agricultural expansion,2
+ATA_32,Atala Kamusio,Agricultural expansion,2
+ATA_33,Atala Kamusio,Agricultural expansion,2
+ATA_34,Atala Kamusio,Agricultural expansion,3
+ATA_35,Atala Kamusio,Agricultural expansion,3
+ATA_36,Atala Kamusio,Agricultural expansion,3
+ATA_37,Atala Kamusio,Agricultural expansion,3
+ATA_38,Atala Kamusio,Agricultural expansion,2
+ATA_39,Atala Kamusio,Agricultural expansion,3
+ATA_40,Atala Kamusio,Agricultural expansion,2
+ATA_41,Atala Kamusio,Agricultural expansion,3
+ATA_42,Atala Kamusio,Agricultural expansion,1
+ATA_43,Atala Kamusio,Agricultural expansion,2
+ATA_44,Atala Kamusio,Agricultural expansion,2
+ATA_45,Atala Kamusio,Agricultural expansion,3
+ATA_46,Atala Kamusio,Agricultural expansion,2
+ATA_47,Atala Kamusio,Agricultural expansion,1
+ATA_48,Atala Kamusio,Agricultural expansion,1
+ATA_49,Atala Kamusio,Agricultural expansion,3
+ATA_50,Atala Kamusio,Agricultural expansion,1
+ATA_51,Atala Kamusio,Agricultural expansion,3
+ATA_52,Atala Kamusio,Agricultural expansion,3
+ATA_53,Atala Kamusio,Agricultural expansion,3
+ATA_54,Atala Kamusio,Agricultural expansion,3
+ATA_55,Atala Kamusio,Agricultural expansion,3
+ATA_56,Atala Kamusio,Agricultural expansion,1
+ATA_57,Atala Kamusio,Agricultural expansion,2
+ATA_58,Atala Kamusio,Agricultural expansion,2
+ATA_59,Atala Kamusio,Agricultural expansion,1
+ATA_60,Atala Kamusio,Agricultural expansion,3
+ATA_61,Atala Kamusio,Agricultural expansion,2
+ATA_62,Atala Kamusio,Agricultural expansion,1
+ATA_63,Atala Kamusio,Agricultural expansion,3
+ATA_64,Atala Kamusio,Agricultural expansion,3
+ATA_65,Atala Kamusio,Agricultural expansion,2
+ATA_66,Atala Kamusio,Agricultural expansion,1
+ATA_67,Atala Kamusio,Agricultural expansion,3
+ATA_68,Atala Kamusio,Agricultural expansion,3
+ATA_69,Atala Kamusio,Agricultural expansion,2
+ATA_70,Atala Kamusio,Agricultural expansion,1
+ATA_71,Atala Kamusio,Agricultural expansion,2
+ATA_72,Atala Kamusio,Agricultural expansion,3
+ATA_73,Atala Kamusio,Agricultural expansion,2
+ATA_74,Atala Kamusio,Agricultural expansion,3
+ATA_75,Atala Kamusio,Agricultural expansion,1
+ATA_76,Atala Kamusio,Agricultural expansion,3
+ATA_77,Atala Kamusio,Agricultural expansion,1
+ATA_78,Atala Kamusio,Agricultural expansion,1
+ATA_79,Atala Kamusio,Agricultural expansion,1
+ATA_80,Atala Kamusio,Agricultural expansion,2
+LOP_1,Lopur,Agricultural expansion,9
+LOP_2,Lopur,Agricultural expansion,8
+LOP_3,Lopur,Agricultural expansion,10
+LOP_4,Lopur,Agricultural expansion,8
+LOP_5,Lopur,Agricultural expansion,8
+LOP_6,Lopur,Agricultural expansion,7
+LOP_7,Lopur,Agricultural expansion,10
+LOP_8,Lopur,Agricultural expansion,8
+LOP_9,Lopur,Agricultural expansion,7
+LOP_10,Lopur,Agricultural expansion,8
+LOP_11,Lopur,Agricultural expansion,6
+LOP_12,Lopur,Agricultural expansion,8
+LOP_13,Lopur,Agricultural expansion,9
+LOP_14,Lopur,Agricultural expansion,9
+LOP_15,Lopur,Agricultural expansion,9
+LOP_16,Lopur,Agricultural expansion,8
+LOP_17,Lopur,Agricultural expansion,8
+LOP_18,Lopur,Agricultural expansion,10
+LOP_19,Lopur,Agricultural expansion,9
+LOP_20,Lopur,Agricultural expansion,10
+LOP_21,Lopur,Agricultural expansion,6
+LOP_22,Lopur,Agricultural expansion,6
+LOP_23,Lopur,Agricultural expansion,10
+LOP_24,Lopur,Agricultural expansion,9
+LOP_25,Lopur,Agricultural expansion,10
+LOP_26,Lopur,Agricultural expansion,6
+LOP_27,Lopur,Agricultural expansion,9
+LOP_28,Lopur,Agricultural expansion,7
+LOP_29,Lopur,Agricultural expansion,7
+LOP_30,Lopur,Agricultural expansion,7
+LOP_31,Lopur,Agricultural expansion,9
+LOP_32,Lopur,Agricultural expansion,10
+LOP_33,Lopur,Agricultural expansion,9
+LOP_34,Lopur,Agricultural expansion,6
+LOP_35,Lopur,Agricultural expansion,8
+LOP_36,Lopur,Agricultural expansion,7
+LOP_37,Lopur,Agricultural expansion,8
+LOP_38,Lopur,Agricultural expansion,8
+LOP_39,Lopur,Agricultural expansion,9
+LOP_40,Lopur,Agricultural expansion,6
+LOP_41,Lopur,Agricultural expansion,9
+LOP_42,Lopur,Agricultural expansion,10
+LOP_43,Lopur,Agricultural expansion,8
+LOP_44,Lopur,Agricultural expansion,8
+LOP_45,Lopur,Agricultural expansion,10
+LOP_46,Lopur,Agricultural expansion,9
+LOP_47,Lopur,Agricultural expansion,9
+LOP_48,Lopur,Agricultural expansion,8
+LOP_49,Lopur,Agricultural expansion,9
+LOP_50,Lopur,Agricultural expansion,10
+LOP_51,Lopur,Agricultural expansion,8
+LOP_52,Lopur,Agricultural expansion,7
+LOP_53,Lopur,Agricultural expansion,9
+LOP_54,Lopur,Agricultural expansion,6
+LOP_55,Lopur,Agricultural expansion,6
+LOP_56,Lopur,Agricultural expansion,7
+LOP_57,Lopur,Agricultural expansion,10
+LOP_58,Lopur,Agricultural expansion,7
+LOP_59,Lopur,Agricultural expansion,10
+LOP_60,Lopur,Agricultural expansion,10
+LOP_61,Lopur,Agricultural expansion,6
+LOP_62,Lopur,Agricultural expansion,9
+LOP_63,Lopur,Agricultural expansion,9
+LOP_64,Lopur,Agricultural expansion,7
+LOP_65,Lopur,Agricultural expansion,9
+LOP_66,Lopur,Agricultural expansion,8
+LOP_67,Lopur,Agricultural expansion,7
+LOP_68,Lopur,Agricultural expansion,9
+LOP_69,Lopur,Agricultural expansion,8
+LOP_70,Lopur,Agricultural expansion,9
+LOP_71,Lopur,Agricultural expansion,8
+LOP_72,Lopur,Agricultural expansion,8
+LOP_73,Lopur,Agricultural expansion,7
+LOP_74,Lopur,Agricultural expansion,7
+LOP_75,Lopur,Agricultural expansion,7
+LOP_76,Lopur,Agricultural expansion,8
+LOP_77,Lopur,Agricultural expansion,9
+LOP_78,Lopur,Agricultural expansion,9
+LOP_79,Lopur,Agricultural expansion,9
+LOP_80,Lopur,Agricultural expansion,9
+"NAS_1",Nasiger,Overstocking/overgrazing,5
+"NAS_2",Nasiger,Overstocking/overgrazing,7
+"NAS_3",Nasiger,Overstocking/overgrazing,7
+"NAS_4",Nasiger,Overstocking/overgrazing,9
+"NAS_5",Nasiger,Overstocking/overgrazing,9
+"NAS_6",Nasiger,Overstocking/overgrazing,5
+"NAS_7",Nasiger,Overstocking/overgrazing,7
+"NAS_8",Nasiger,Overstocking/overgrazing,9
+"NAS_9",Nasiger,Overstocking/overgrazing,5
+"NAS_10",Nasiger,Overstocking/overgrazing,8
+"NAS_11",Nasiger,Overstocking/overgrazing,9
+"NAS_12",Nasiger,Overstocking/overgrazing,9
+"NAS_13",Nasiger,Overstocking/overgrazing,9
+"NAS_14",Nasiger,Overstocking/overgrazing,7
+"NAS_15",Nasiger,Overstocking/overgrazing,6
+"NAS_16",Nasiger,Overstocking/overgrazing,8
+"NAS_17",Nasiger,Overstocking/overgrazing,8
+"NAS_18",Nasiger,Overstocking/overgrazing,8
+"NAS_19",Nasiger,Overstocking/overgrazing,9
+"NAS_20",Nasiger,Overstocking/overgrazing,6
+"NAS_21",Nasiger,Overstocking/overgrazing,9
+"NAS_22",Nasiger,Overstocking/overgrazing,7
+"NAS_23",Nasiger,Overstocking/overgrazing,8
+"NAS_24",Nasiger,Overstocking/overgrazing,8
+"NAS_25",Nasiger,Overstocking/overgrazing,5
+"NAS_26",Nasiger,Overstocking/overgrazing,8
+"NAS_27",Nasiger,Overstocking/overgrazing,9
+"NAS_28",Nasiger,Overstocking/overgrazing,9
+"NAS_29",Nasiger,Overstocking/overgrazing,5
+"NAS_30",Nasiger,Overstocking/overgrazing,6
+"NAS_31",Nasiger,Overstocking/overgrazing,9
+"NAS_32",Nasiger,Overstocking/overgrazing,5
+"NAS_33",Nasiger,Overstocking/overgrazing,5
+"NAS_34",Nasiger,Overstocking/overgrazing,9
+"NAS_35",Nasiger,Overstocking/overgrazing,9
+"NAS_36",Nasiger,Overstocking/overgrazing,4
+"NAS_37",Nasiger,Overstocking/overgrazing,7
+"NAS_38",Nasiger,Overstocking/overgrazing,8
+"NAS_39",Nasiger,Overstocking/overgrazing,6
+"NAS_40",Nasiger,Overstocking/overgrazing,4
+"NAS_41",Nasiger,Overstocking/overgrazing,8
+"NAS_42",Nasiger,Overstocking/overgrazing,6
+"NAS_43",Nasiger,Overstocking/overgrazing,7
+"NAS_44",Nasiger,Overstocking/overgrazing,4
+"NAS_45",Nasiger,Overstocking/overgrazing,6
+"NAS_46",Nasiger,Overstocking/overgrazing,9
+"NAS_47",Nasiger,Overstocking/overgrazing,7
+"NAS_48",Nasiger,Overstocking/overgrazing,5
+"NAS_49",Nasiger,Overstocking/overgrazing,9
+"NAS_50",Nasiger,Overstocking/overgrazing,9
+"NAS_51",Nasiger,Overstocking/overgrazing,8
+"NAS_52",Nasiger,Overstocking/overgrazing,6
+"NAS_53",Nasiger,Overstocking/overgrazing,4
+"NAS_54",Nasiger,Overstocking/overgrazing,6
+"NAS_55",Nasiger,Overstocking/overgrazing,8
+"NAS_56",Nasiger,Overstocking/overgrazing,9
+"NAS_57",Nasiger,Overstocking/overgrazing,9
+"NAS_58",Nasiger,Overstocking/overgrazing,7
+"NAS_59",Nasiger,Overstocking/overgrazing,8
+"NAS_60",Nasiger,Overstocking/overgrazing,7
+"NAS_61",Nasiger,Overstocking/overgrazing,5
+"NAS_62",Nasiger,Overstocking/overgrazing,9
+"NAS_63",Nasiger,Overstocking/overgrazing,8
+"NAS_64",Nasiger,Overstocking/overgrazing,7
+"NAS_65",Nasiger,Overstocking/overgrazing,9
+"NAS_66",Nasiger,Overstocking/overgrazing,8
+"NAS_67",Nasiger,Overstocking/overgrazing,8
+"NAS_68",Nasiger,Overstocking/overgrazing,7
+"NAS_69",Nasiger,Overstocking/overgrazing,7
+"NAS_70",Nasiger,Overstocking/overgrazing,9
+"NAS_71",Nasiger,Overstocking/overgrazing,5
+"NAS_72",Nasiger,Overstocking/overgrazing,4
+"NAS_73",Nasiger,Overstocking/overgrazing,8
+"NAS_74",Nasiger,Overstocking/overgrazing,8
+"NAS_75",Nasiger,Overstocking/overgrazing,8
+"NAS_76",Nasiger,Overstocking/overgrazing,9
+"NAS_77",Nasiger,Overstocking/overgrazing,7
+"NAS_78",Nasiger,Overstocking/overgrazing,8
+"NAS_79",Nasiger,Overstocking/overgrazing,7
+"NAS_80",Nasiger,Overstocking/overgrazing,8
+ATA_1,Atala Kamusio,Overstocking/overgrazing,6
+ATA_2,Atala Kamusio,Overstocking/overgrazing,8
+ATA_3,Atala Kamusio,Overstocking/overgrazing,7
+ATA_4,Atala Kamusio,Overstocking/overgrazing,7
+ATA_5,Atala Kamusio,Overstocking/overgrazing,9
+ATA_6,Atala Kamusio,Overstocking/overgrazing,10
+ATA_7,Atala Kamusio,Overstocking/overgrazing,7
+ATA_8,Atala Kamusio,Overstocking/overgrazing,10
+ATA_9,Atala Kamusio,Overstocking/overgrazing,10
+ATA_10,Atala Kamusio,Overstocking/overgrazing,9
+ATA_11,Atala Kamusio,Overstocking/overgrazing,7
+ATA_12,Atala Kamusio,Overstocking/overgrazing,8
+ATA_13,Atala Kamusio,Overstocking/overgrazing,7
+ATA_14,Atala Kamusio,Overstocking/overgrazing,6
+ATA_15,Atala Kamusio,Overstocking/overgrazing,9
+ATA_16,Atala Kamusio,Overstocking/overgrazing,6
+ATA_17,Atala Kamusio,Overstocking/overgrazing,7
+ATA_18,Atala Kamusio,Overstocking/overgrazing,8
+ATA_19,Atala Kamusio,Overstocking/overgrazing,6
+ATA_20,Atala Kamusio,Overstocking/overgrazing,9
+ATA_21,Atala Kamusio,Overstocking/overgrazing,10
+ATA_22,Atala Kamusio,Overstocking/overgrazing,7
+ATA_23,Atala Kamusio,Overstocking/overgrazing,8
+ATA_24,Atala Kamusio,Overstocking/overgrazing,7
+ATA_25,Atala Kamusio,Overstocking/overgrazing,8
+ATA_26,Atala Kamusio,Overstocking/overgrazing,8
+ATA_27,Atala Kamusio,Overstocking/overgrazing,10
+ATA_28,Atala Kamusio,Overstocking/overgrazing,10
+ATA_29,Atala Kamusio,Overstocking/overgrazing,9
+ATA_30,Atala Kamusio,Overstocking/overgrazing,7
+ATA_31,Atala Kamusio,Overstocking/overgrazing,7
+ATA_32,Atala Kamusio,Overstocking/overgrazing,8
+ATA_33,Atala Kamusio,Overstocking/overgrazing,6
+ATA_34,Atala Kamusio,Overstocking/overgrazing,6
+ATA_35,Atala Kamusio,Overstocking/overgrazing,6
+ATA_36,Atala Kamusio,Overstocking/overgrazing,10
+ATA_37,Atala Kamusio,Overstocking/overgrazing,7
+ATA_38,Atala Kamusio,Overstocking/overgrazing,7
+ATA_39,Atala Kamusio,Overstocking/overgrazing,8
+ATA_40,Atala Kamusio,Overstocking/overgrazing,10
+ATA_41,Atala Kamusio,Overstocking/overgrazing,6
+ATA_42,Atala Kamusio,Overstocking/overgrazing,7
+ATA_43,Atala Kamusio,Overstocking/overgrazing,9
+ATA_44,Atala Kamusio,Overstocking/overgrazing,8
+ATA_45,Atala Kamusio,Overstocking/overgrazing,8
+ATA_46,Atala Kamusio,Overstocking/overgrazing,9
+ATA_47,Atala Kamusio,Overstocking/overgrazing,10
+ATA_48,Atala Kamusio,Overstocking/overgrazing,7
+ATA_49,Atala Kamusio,Overstocking/overgrazing,8
+ATA_50,Atala Kamusio,Overstocking/overgrazing,10
+ATA_51,Atala Kamusio,Overstocking/overgrazing,7
+ATA_52,Atala Kamusio,Overstocking/overgrazing,7
+ATA_53,Atala Kamusio,Overstocking/overgrazing,6
+ATA_54,Atala Kamusio,Overstocking/overgrazing,6
+ATA_55,Atala Kamusio,Overstocking/overgrazing,6
+ATA_56,Atala Kamusio,Overstocking/overgrazing,6
+ATA_57,Atala Kamusio,Overstocking/overgrazing,8
+ATA_58,Atala Kamusio,Overstocking/overgrazing,9
+ATA_59,Atala Kamusio,Overstocking/overgrazing,8
+ATA_60,Atala Kamusio,Overstocking/overgrazing,10
+ATA_61,Atala Kamusio,Overstocking/overgrazing,8
+ATA_62,Atala Kamusio,Overstocking/overgrazing,10
+ATA_63,Atala Kamusio,Overstocking/overgrazing,10
+ATA_64,Atala Kamusio,Overstocking/overgrazing,8
+ATA_65,Atala Kamusio,Overstocking/overgrazing,9
+ATA_66,Atala Kamusio,Overstocking/overgrazing,6
+ATA_67,Atala Kamusio,Overstocking/overgrazing,8
+ATA_68,Atala Kamusio,Overstocking/overgrazing,10
+ATA_69,Atala Kamusio,Overstocking/overgrazing,6
+ATA_70,Atala Kamusio,Overstocking/overgrazing,9
+ATA_71,Atala Kamusio,Overstocking/overgrazing,8
+ATA_72,Atala Kamusio,Overstocking/overgrazing,6
+ATA_73,Atala Kamusio,Overstocking/overgrazing,9
+ATA_74,Atala Kamusio,Overstocking/overgrazing,7
+ATA_75,Atala Kamusio,Overstocking/overgrazing,7
+ATA_76,Atala Kamusio,Overstocking/overgrazing,9
+ATA_77,Atala Kamusio,Overstocking/overgrazing,8
+ATA_78,Atala Kamusio,Overstocking/overgrazing,7
+ATA_79,Atala Kamusio,Overstocking/overgrazing,10
+ATA_80,Atala Kamusio,Overstocking/overgrazing,10
+LOP_1,Lopur,Overstocking/overgrazing,6
+LOP_2,Lopur,Overstocking/overgrazing,8
+LOP_3,Lopur,Overstocking/overgrazing,6
+LOP_4,Lopur,Overstocking/overgrazing,6
+LOP_5,Lopur,Overstocking/overgrazing,7
+LOP_6,Lopur,Overstocking/overgrazing,7
+LOP_7,Lopur,Overstocking/overgrazing,9
+LOP_8,Lopur,Overstocking/overgrazing,8
+LOP_9,Lopur,Overstocking/overgrazing,6
+LOP_10,Lopur,Overstocking/overgrazing,7
+LOP_11,Lopur,Overstocking/overgrazing,7
+LOP_12,Lopur,Overstocking/overgrazing,6
+LOP_13,Lopur,Overstocking/overgrazing,8
+LOP_14,Lopur,Overstocking/overgrazing,8
+LOP_15,Lopur,Overstocking/overgrazing,8
+LOP_16,Lopur,Overstocking/overgrazing,6
+LOP_17,Lopur,Overstocking/overgrazing,7
+LOP_18,Lopur,Overstocking/overgrazing,8
+LOP_19,Lopur,Overstocking/overgrazing,8
+LOP_20,Lopur,Overstocking/overgrazing,9
+LOP_21,Lopur,Overstocking/overgrazing,6
+LOP_22,Lopur,Overstocking/overgrazing,10
+LOP_23,Lopur,Overstocking/overgrazing,9
+LOP_24,Lopur,Overstocking/overgrazing,9
+LOP_25,Lopur,Overstocking/overgrazing,7
+LOP_26,Lopur,Overstocking/overgrazing,8
+LOP_27,Lopur,Overstocking/overgrazing,10
+LOP_28,Lopur,Overstocking/overgrazing,9
+LOP_29,Lopur,Overstocking/overgrazing,7
+LOP_30,Lopur,Overstocking/overgrazing,8
+LOP_31,Lopur,Overstocking/overgrazing,7
+LOP_32,Lopur,Overstocking/overgrazing,9
+LOP_33,Lopur,Overstocking/overgrazing,6
+LOP_34,Lopur,Overstocking/overgrazing,10
+LOP_35,Lopur,Overstocking/overgrazing,9
+LOP_36,Lopur,Overstocking/overgrazing,10
+LOP_37,Lopur,Overstocking/overgrazing,8
+LOP_38,Lopur,Overstocking/overgrazing,9
+LOP_39,Lopur,Overstocking/overgrazing,9
+LOP_40,Lopur,Overstocking/overgrazing,6
+LOP_41,Lopur,Overstocking/overgrazing,7
+LOP_42,Lopur,Overstocking/overgrazing,9
+LOP_43,Lopur,Overstocking/overgrazing,10
+LOP_44,Lopur,Overstocking/overgrazing,8
+LOP_45,Lopur,Overstocking/overgrazing,10
+LOP_46,Lopur,Overstocking/overgrazing,8
+LOP_47,Lopur,Overstocking/overgrazing,7
+LOP_48,Lopur,Overstocking/overgrazing,7
+LOP_49,Lopur,Overstocking/overgrazing,8
+LOP_50,Lopur,Overstocking/overgrazing,10
+LOP_51,Lopur,Overstocking/overgrazing,6
+LOP_52,Lopur,Overstocking/overgrazing,8
+LOP_53,Lopur,Overstocking/overgrazing,6
+LOP_54,Lopur,Overstocking/overgrazing,6
+LOP_55,Lopur,Overstocking/overgrazing,7
+LOP_56,Lopur,Overstocking/overgrazing,10
+LOP_57,Lopur,Overstocking/overgrazing,10
+LOP_58,Lopur,Overstocking/overgrazing,8
+LOP_59,Lopur,Overstocking/overgrazing,9
+LOP_60,Lopur,Overstocking/overgrazing,7
+LOP_61,Lopur,Overstocking/overgrazing,7
+LOP_62,Lopur,Overstocking/overgrazing,6
+LOP_63,Lopur,Overstocking/overgrazing,6
+LOP_64,Lopur,Overstocking/overgrazing,8
+LOP_65,Lopur,Overstocking/overgrazing,9
+LOP_66,Lopur,Overstocking/overgrazing,6
+LOP_67,Lopur,Overstocking/overgrazing,6
+LOP_68,Lopur,Overstocking/overgrazing,7
+LOP_69,Lopur,Overstocking/overgrazing,8
+LOP_70,Lopur,Overstocking/overgrazing,6
+LOP_71,Lopur,Overstocking/overgrazing,7
+LOP_72,Lopur,Overstocking/overgrazing,6
+LOP_73,Lopur,Overstocking/overgrazing,9
+LOP_74,Lopur,Overstocking/overgrazing,8
+LOP_75,Lopur,Overstocking/overgrazing,6
+LOP_76,Lopur,Overstocking/overgrazing,6
+LOP_77,Lopur,Overstocking/overgrazing,6
+LOP_78,Lopur,Overstocking/overgrazing,6
+LOP_79,Lopur,Overstocking/overgrazing,10
+LOP_80,Lopur,Overstocking/overgrazing,10
+"NAS_1",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_2",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_3",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_4",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_5",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_6",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_7",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_8",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_9",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_10",Nasiger,Fuelwood collection/charcoal burning,5
+"NAS_11",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_12",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_13",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_14",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_15",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_16",Nasiger,Fuelwood collection/charcoal burning,3
+"NAS_17",Nasiger,Fuelwood collection/charcoal burning,3
+"NAS_18",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_19",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_20",Nasiger,Fuelwood collection/charcoal burning,3
+"NAS_21",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_22",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_23",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_24",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_25",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_26",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_27",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_28",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_29",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_30",Nasiger,Fuelwood collection/charcoal burning,5
+"NAS_31",Nasiger,Fuelwood collection/charcoal burning,3
+"NAS_32",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_33",Nasiger,Fuelwood collection/charcoal burning,5
+"NAS_34",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_35",Nasiger,Fuelwood collection/charcoal burning,5
+"NAS_36",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_37",Nasiger,Fuelwood collection/charcoal burning,3
+"NAS_38",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_39",Nasiger,Fuelwood collection/charcoal burning,5
+"NAS_40",Nasiger,Fuelwood collection/charcoal burning,5
+"NAS_41",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_42",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_43",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_44",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_45",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_46",Nasiger,Fuelwood collection/charcoal burning,3
+"NAS_47",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_48",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_49",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_50",Nasiger,Fuelwood collection/charcoal burning,3
+"NAS_51",Nasiger,Fuelwood collection/charcoal burning,3
+"NAS_52",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_53",Nasiger,Fuelwood collection/charcoal burning,3
+"NAS_54",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_55",Nasiger,Fuelwood collection/charcoal burning,5
+"NAS_56",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_57",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_58",Nasiger,Fuelwood collection/charcoal burning,3
+"NAS_59",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_60",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_61",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_62",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_63",Nasiger,Fuelwood collection/charcoal burning,5
+"NAS_64",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_65",Nasiger,Fuelwood collection/charcoal burning,1
+"NAS_66",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_67",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_68",Nasiger,Fuelwood collection/charcoal burning,5
+"NAS_69",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_70",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_71",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_72",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_73",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_74",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_75",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_76",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_77",Nasiger,Fuelwood collection/charcoal burning,4
+"NAS_78",Nasiger,Fuelwood collection/charcoal burning,2
+"NAS_79",Nasiger,Fuelwood collection/charcoal burning,6
+"NAS_80",Nasiger,Fuelwood collection/charcoal burning,1
+ATA_1,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_2,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_3,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_4,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_5,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_6,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_7,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_8,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_9,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_10,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_11,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_12,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_13,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_14,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_15,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_16,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_17,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_18,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_19,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_20,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_21,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_22,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_23,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_24,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_25,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_26,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_27,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_28,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_29,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_30,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_31,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_32,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_33,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_34,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_35,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_36,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_37,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_38,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_39,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_40,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_41,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_42,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_43,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_44,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_45,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_46,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_47,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_48,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_49,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_50,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_51,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_52,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_53,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_54,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_55,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_56,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_57,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_58,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_59,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_60,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_61,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_62,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_63,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_64,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_65,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_66,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_67,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_68,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_69,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_70,Atala Kamusio,Fuelwood collection/charcoal burning,3
+ATA_71,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_72,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_73,Atala Kamusio,Fuelwood collection/charcoal burning,6
+ATA_74,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_75,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_76,Atala Kamusio,Fuelwood collection/charcoal burning,8
+ATA_77,Atala Kamusio,Fuelwood collection/charcoal burning,5
+ATA_78,Atala Kamusio,Fuelwood collection/charcoal burning,4
+ATA_79,Atala Kamusio,Fuelwood collection/charcoal burning,7
+ATA_80,Atala Kamusio,Fuelwood collection/charcoal burning,6
+LOP_1,Lopur,Fuelwood collection/charcoal burning,6
+LOP_2,Lopur,Fuelwood collection/charcoal burning,4
+LOP_3,Lopur,Fuelwood collection/charcoal burning,5
+LOP_4,Lopur,Fuelwood collection/charcoal burning,6
+LOP_5,Lopur,Fuelwood collection/charcoal burning,6
+LOP_6,Lopur,Fuelwood collection/charcoal burning,7
+LOP_7,Lopur,Fuelwood collection/charcoal burning,3
+LOP_8,Lopur,Fuelwood collection/charcoal burning,3
+LOP_9,Lopur,Fuelwood collection/charcoal burning,3
+LOP_10,Lopur,Fuelwood collection/charcoal burning,3
+LOP_11,Lopur,Fuelwood collection/charcoal burning,5
+LOP_12,Lopur,Fuelwood collection/charcoal burning,4
+LOP_13,Lopur,Fuelwood collection/charcoal burning,4
+LOP_14,Lopur,Fuelwood collection/charcoal burning,7
+LOP_15,Lopur,Fuelwood collection/charcoal burning,6
+LOP_16,Lopur,Fuelwood collection/charcoal burning,4
+LOP_17,Lopur,Fuelwood collection/charcoal burning,4
+LOP_18,Lopur,Fuelwood collection/charcoal burning,4
+LOP_19,Lopur,Fuelwood collection/charcoal burning,3
+LOP_20,Lopur,Fuelwood collection/charcoal burning,5
+LOP_21,Lopur,Fuelwood collection/charcoal burning,4
+LOP_22,Lopur,Fuelwood collection/charcoal burning,5
+LOP_23,Lopur,Fuelwood collection/charcoal burning,6
+LOP_24,Lopur,Fuelwood collection/charcoal burning,5
+LOP_25,Lopur,Fuelwood collection/charcoal burning,7
+LOP_26,Lopur,Fuelwood collection/charcoal burning,7
+LOP_27,Lopur,Fuelwood collection/charcoal burning,3
+LOP_28,Lopur,Fuelwood collection/charcoal burning,7
+LOP_29,Lopur,Fuelwood collection/charcoal burning,3
+LOP_30,Lopur,Fuelwood collection/charcoal burning,7
+LOP_31,Lopur,Fuelwood collection/charcoal burning,5
+LOP_32,Lopur,Fuelwood collection/charcoal burning,7
+LOP_33,Lopur,Fuelwood collection/charcoal burning,5
+LOP_34,Lopur,Fuelwood collection/charcoal burning,4
+LOP_35,Lopur,Fuelwood collection/charcoal burning,7
+LOP_36,Lopur,Fuelwood collection/charcoal burning,7
+LOP_37,Lopur,Fuelwood collection/charcoal burning,5
+LOP_38,Lopur,Fuelwood collection/charcoal burning,5
+LOP_39,Lopur,Fuelwood collection/charcoal burning,6
+LOP_40,Lopur,Fuelwood collection/charcoal burning,6
+LOP_41,Lopur,Fuelwood collection/charcoal burning,4
+LOP_42,Lopur,Fuelwood collection/charcoal burning,3
+LOP_43,Lopur,Fuelwood collection/charcoal burning,4
+LOP_44,Lopur,Fuelwood collection/charcoal burning,7
+LOP_45,Lopur,Fuelwood collection/charcoal burning,3
+LOP_46,Lopur,Fuelwood collection/charcoal burning,4
+LOP_47,Lopur,Fuelwood collection/charcoal burning,5
+LOP_48,Lopur,Fuelwood collection/charcoal burning,5
+LOP_49,Lopur,Fuelwood collection/charcoal burning,4
+LOP_50,Lopur,Fuelwood collection/charcoal burning,4
+LOP_51,Lopur,Fuelwood collection/charcoal burning,4
+LOP_52,Lopur,Fuelwood collection/charcoal burning,6
+LOP_53,Lopur,Fuelwood collection/charcoal burning,4
+LOP_54,Lopur,Fuelwood collection/charcoal burning,3
+LOP_55,Lopur,Fuelwood collection/charcoal burning,7
+LOP_56,Lopur,Fuelwood collection/charcoal burning,4
+LOP_57,Lopur,Fuelwood collection/charcoal burning,5
+LOP_58,Lopur,Fuelwood collection/charcoal burning,6
+LOP_59,Lopur,Fuelwood collection/charcoal burning,7
+LOP_60,Lopur,Fuelwood collection/charcoal burning,6
+LOP_61,Lopur,Fuelwood collection/charcoal burning,3
+LOP_62,Lopur,Fuelwood collection/charcoal burning,5
+LOP_63,Lopur,Fuelwood collection/charcoal burning,5
+LOP_64,Lopur,Fuelwood collection/charcoal burning,4
+LOP_65,Lopur,Fuelwood collection/charcoal burning,7
+LOP_66,Lopur,Fuelwood collection/charcoal burning,4
+LOP_67,Lopur,Fuelwood collection/charcoal burning,3
+LOP_68,Lopur,Fuelwood collection/charcoal burning,3
+LOP_69,Lopur,Fuelwood collection/charcoal burning,6
+LOP_70,Lopur,Fuelwood collection/charcoal burning,4
+LOP_71,Lopur,Fuelwood collection/charcoal burning,3
+LOP_72,Lopur,Fuelwood collection/charcoal burning,6
+LOP_73,Lopur,Fuelwood collection/charcoal burning,4
+LOP_74,Lopur,Fuelwood collection/charcoal burning,3
+LOP_75,Lopur,Fuelwood collection/charcoal burning,3
+LOP_76,Lopur,Fuelwood collection/charcoal burning,3
+LOP_77,Lopur,Fuelwood collection/charcoal burning,7
+LOP_78,Lopur,Fuelwood collection/charcoal burning,4
+LOP_79,Lopur,Fuelwood collection/charcoal burning,6
+LOP_80,Lopur,Fuelwood collection/charcoal burning,6
+"NAS_1",Nasiger,Uncontrolled fire,1
+"NAS_2",Nasiger,Uncontrolled fire,1
+"NAS_3",Nasiger,Uncontrolled fire,1
+"NAS_4",Nasiger,Uncontrolled fire,1
+"NAS_5",Nasiger,Uncontrolled fire,1
+"NAS_6",Nasiger,Uncontrolled fire,1
+"NAS_7",Nasiger,Uncontrolled fire,1
+"NAS_8",Nasiger,Uncontrolled fire,1
+"NAS_9",Nasiger,Uncontrolled fire,1
+"NAS_10",Nasiger,Uncontrolled fire,2
+"NAS_11",Nasiger,Uncontrolled fire,1
+"NAS_12",Nasiger,Uncontrolled fire,2
+"NAS_13",Nasiger,Uncontrolled fire,2
+"NAS_14",Nasiger,Uncontrolled fire,1
+"NAS_15",Nasiger,Uncontrolled fire,1
+"NAS_16",Nasiger,Uncontrolled fire,2
+"NAS_17",Nasiger,Uncontrolled fire,1
+"NAS_18",Nasiger,Uncontrolled fire,1
+"NAS_19",Nasiger,Uncontrolled fire,1
+"NAS_20",Nasiger,Uncontrolled fire,1
+"NAS_21",Nasiger,Uncontrolled fire,1
+"NAS_22",Nasiger,Uncontrolled fire,2
+"NAS_23",Nasiger,Uncontrolled fire,1
+"NAS_24",Nasiger,Uncontrolled fire,2
+"NAS_25",Nasiger,Uncontrolled fire,2
+"NAS_26",Nasiger,Uncontrolled fire,2
+"NAS_27",Nasiger,Uncontrolled fire,1
+"NAS_28",Nasiger,Uncontrolled fire,1
+"NAS_29",Nasiger,Uncontrolled fire,1
+"NAS_30",Nasiger,Uncontrolled fire,1
+"NAS_31",Nasiger,Uncontrolled fire,1
+"NAS_32",Nasiger,Uncontrolled fire,1
+"NAS_33",Nasiger,Uncontrolled fire,1
+"NAS_34",Nasiger,Uncontrolled fire,1
+"NAS_35",Nasiger,Uncontrolled fire,1
+"NAS_36",Nasiger,Uncontrolled fire,1
+"NAS_37",Nasiger,Uncontrolled fire,1
+"NAS_38",Nasiger,Uncontrolled fire,1
+"NAS_39",Nasiger,Uncontrolled fire,2
+"NAS_40",Nasiger,Uncontrolled fire,1
+"NAS_41",Nasiger,Uncontrolled fire,2
+"NAS_42",Nasiger,Uncontrolled fire,2
+"NAS_43",Nasiger,Uncontrolled fire,1
+"NAS_44",Nasiger,Uncontrolled fire,1
+"NAS_45",Nasiger,Uncontrolled fire,1
+"NAS_46",Nasiger,Uncontrolled fire,1
+"NAS_47",Nasiger,Uncontrolled fire,1
+"NAS_48",Nasiger,Uncontrolled fire,1
+"NAS_49",Nasiger,Uncontrolled fire,1
+"NAS_50",Nasiger,Uncontrolled fire,2
+"NAS_51",Nasiger,Uncontrolled fire,1
+"NAS_52",Nasiger,Uncontrolled fire,1
+"NAS_53",Nasiger,Uncontrolled fire,2
+"NAS_54",Nasiger,Uncontrolled fire,1
+"NAS_55",Nasiger,Uncontrolled fire,1
+"NAS_56",Nasiger,Uncontrolled fire,1
+"NAS_57",Nasiger,Uncontrolled fire,1
+"NAS_58",Nasiger,Uncontrolled fire,1
+"NAS_59",Nasiger,Uncontrolled fire,2
+"NAS_60",Nasiger,Uncontrolled fire,2
+"NAS_61",Nasiger,Uncontrolled fire,1
+"NAS_62",Nasiger,Uncontrolled fire,2
+"NAS_63",Nasiger,Uncontrolled fire,1
+"NAS_64",Nasiger,Uncontrolled fire,1
+"NAS_65",Nasiger,Uncontrolled fire,1
+"NAS_66",Nasiger,Uncontrolled fire,2
+"NAS_67",Nasiger,Uncontrolled fire,2
+"NAS_68",Nasiger,Uncontrolled fire,1
+"NAS_69",Nasiger,Uncontrolled fire,1
+"NAS_70",Nasiger,Uncontrolled fire,1
+"NAS_71",Nasiger,Uncontrolled fire,2
+"NAS_72",Nasiger,Uncontrolled fire,2
+"NAS_73",Nasiger,Uncontrolled fire,2
+"NAS_74",Nasiger,Uncontrolled fire,1
+"NAS_75",Nasiger,Uncontrolled fire,2
+"NAS_76",Nasiger,Uncontrolled fire,2
+"NAS_77",Nasiger,Uncontrolled fire,1
+"NAS_78",Nasiger,Uncontrolled fire,1
+"NAS_79",Nasiger,Uncontrolled fire,2
+"NAS_80",Nasiger,Uncontrolled fire,2
+ATA_1,Atala Kamusio,Uncontrolled fire,3
+ATA_2,Atala Kamusio,Uncontrolled fire,1
+ATA_3,Atala Kamusio,Uncontrolled fire,2
+ATA_4,Atala Kamusio,Uncontrolled fire,1
+ATA_5,Atala Kamusio,Uncontrolled fire,1
+ATA_6,Atala Kamusio,Uncontrolled fire,1
+ATA_7,Atala Kamusio,Uncontrolled fire,1
+ATA_8,Atala Kamusio,Uncontrolled fire,2
+ATA_9,Atala Kamusio,Uncontrolled fire,2
+ATA_10,Atala Kamusio,Uncontrolled fire,3
+ATA_11,Atala Kamusio,Uncontrolled fire,2
+ATA_12,Atala Kamusio,Uncontrolled fire,3
+ATA_13,Atala Kamusio,Uncontrolled fire,3
+ATA_14,Atala Kamusio,Uncontrolled fire,3
+ATA_15,Atala Kamusio,Uncontrolled fire,1
+ATA_16,Atala Kamusio,Uncontrolled fire,2
+ATA_17,Atala Kamusio,Uncontrolled fire,3
+ATA_18,Atala Kamusio,Uncontrolled fire,1
+ATA_19,Atala Kamusio,Uncontrolled fire,1
+ATA_20,Atala Kamusio,Uncontrolled fire,2
+ATA_21,Atala Kamusio,Uncontrolled fire,3
+ATA_22,Atala Kamusio,Uncontrolled fire,2
+ATA_23,Atala Kamusio,Uncontrolled fire,3
+ATA_24,Atala Kamusio,Uncontrolled fire,2
+ATA_25,Atala Kamusio,Uncontrolled fire,2
+ATA_26,Atala Kamusio,Uncontrolled fire,2
+ATA_27,Atala Kamusio,Uncontrolled fire,2
+ATA_28,Atala Kamusio,Uncontrolled fire,3
+ATA_29,Atala Kamusio,Uncontrolled fire,2
+ATA_30,Atala Kamusio,Uncontrolled fire,3
+ATA_31,Atala Kamusio,Uncontrolled fire,3
+ATA_32,Atala Kamusio,Uncontrolled fire,2
+ATA_33,Atala Kamusio,Uncontrolled fire,1
+ATA_34,Atala Kamusio,Uncontrolled fire,3
+ATA_35,Atala Kamusio,Uncontrolled fire,3
+ATA_36,Atala Kamusio,Uncontrolled fire,2
+ATA_37,Atala Kamusio,Uncontrolled fire,1
+ATA_38,Atala Kamusio,Uncontrolled fire,2
+ATA_39,Atala Kamusio,Uncontrolled fire,2
+ATA_40,Atala Kamusio,Uncontrolled fire,2
+ATA_41,Atala Kamusio,Uncontrolled fire,2
+ATA_42,Atala Kamusio,Uncontrolled fire,1
+ATA_43,Atala Kamusio,Uncontrolled fire,1
+ATA_44,Atala Kamusio,Uncontrolled fire,3
+ATA_45,Atala Kamusio,Uncontrolled fire,2
+ATA_46,Atala Kamusio,Uncontrolled fire,2
+ATA_47,Atala Kamusio,Uncontrolled fire,1
+ATA_48,Atala Kamusio,Uncontrolled fire,3
+ATA_49,Atala Kamusio,Uncontrolled fire,2
+ATA_50,Atala Kamusio,Uncontrolled fire,2
+ATA_51,Atala Kamusio,Uncontrolled fire,3
+ATA_52,Atala Kamusio,Uncontrolled fire,1
+ATA_53,Atala Kamusio,Uncontrolled fire,1
+ATA_54,Atala Kamusio,Uncontrolled fire,2
+ATA_55,Atala Kamusio,Uncontrolled fire,2
+ATA_56,Atala Kamusio,Uncontrolled fire,2
+ATA_57,Atala Kamusio,Uncontrolled fire,1
+ATA_58,Atala Kamusio,Uncontrolled fire,2
+ATA_59,Atala Kamusio,Uncontrolled fire,2
+ATA_60,Atala Kamusio,Uncontrolled fire,1
+ATA_61,Atala Kamusio,Uncontrolled fire,2
+ATA_62,Atala Kamusio,Uncontrolled fire,2
+ATA_63,Atala Kamusio,Uncontrolled fire,3
+ATA_64,Atala Kamusio,Uncontrolled fire,1
+ATA_65,Atala Kamusio,Uncontrolled fire,1
+ATA_66,Atala Kamusio,Uncontrolled fire,2
+ATA_67,Atala Kamusio,Uncontrolled fire,2
+ATA_68,Atala Kamusio,Uncontrolled fire,1
+ATA_69,Atala Kamusio,Uncontrolled fire,3
+ATA_70,Atala Kamusio,Uncontrolled fire,3
+ATA_71,Atala Kamusio,Uncontrolled fire,3
+ATA_72,Atala Kamusio,Uncontrolled fire,1
+ATA_73,Atala Kamusio,Uncontrolled fire,2
+ATA_74,Atala Kamusio,Uncontrolled fire,2
+ATA_75,Atala Kamusio,Uncontrolled fire,2
+ATA_76,Atala Kamusio,Uncontrolled fire,3
+ATA_77,Atala Kamusio,Uncontrolled fire,2
+ATA_78,Atala Kamusio,Uncontrolled fire,1
+ATA_79,Atala Kamusio,Uncontrolled fire,2
+ATA_80,Atala Kamusio,Uncontrolled fire,3
+LOP_1,Lopur,Uncontrolled fire,6
+LOP_2,Lopur,Uncontrolled fire,8
+LOP_3,Lopur,Uncontrolled fire,5
+LOP_4,Lopur,Uncontrolled fire,5
+LOP_5,Lopur,Uncontrolled fire,9
+LOP_6,Lopur,Uncontrolled fire,7
+LOP_7,Lopur,Uncontrolled fire,5
+LOP_8,Lopur,Uncontrolled fire,10
+LOP_9,Lopur,Uncontrolled fire,10
+LOP_10,Lopur,Uncontrolled fire,7
+LOP_11,Lopur,Uncontrolled fire,8
+LOP_12,Lopur,Uncontrolled fire,10
+LOP_13,Lopur,Uncontrolled fire,8
+LOP_14,Lopur,Uncontrolled fire,7
+LOP_15,Lopur,Uncontrolled fire,5
+LOP_16,Lopur,Uncontrolled fire,10
+LOP_17,Lopur,Uncontrolled fire,10
+LOP_18,Lopur,Uncontrolled fire,9
+LOP_19,Lopur,Uncontrolled fire,10
+LOP_20,Lopur,Uncontrolled fire,10
+LOP_21,Lopur,Uncontrolled fire,6
+LOP_22,Lopur,Uncontrolled fire,10
+LOP_23,Lopur,Uncontrolled fire,6
+LOP_24,Lopur,Uncontrolled fire,9
+LOP_25,Lopur,Uncontrolled fire,10
+LOP_26,Lopur,Uncontrolled fire,7
+LOP_27,Lopur,Uncontrolled fire,7
+LOP_28,Lopur,Uncontrolled fire,6
+LOP_29,Lopur,Uncontrolled fire,6
+LOP_30,Lopur,Uncontrolled fire,9
+LOP_31,Lopur,Uncontrolled fire,5
+LOP_32,Lopur,Uncontrolled fire,5
+LOP_33,Lopur,Uncontrolled fire,7
+LOP_34,Lopur,Uncontrolled fire,9
+LOP_35,Lopur,Uncontrolled fire,10
+LOP_36,Lopur,Uncontrolled fire,5
+LOP_37,Lopur,Uncontrolled fire,9
+LOP_38,Lopur,Uncontrolled fire,9
+LOP_39,Lopur,Uncontrolled fire,9
+LOP_40,Lopur,Uncontrolled fire,6
+LOP_41,Lopur,Uncontrolled fire,9
+LOP_42,Lopur,Uncontrolled fire,5
+LOP_43,Lopur,Uncontrolled fire,6
+LOP_44,Lopur,Uncontrolled fire,9
+LOP_45,Lopur,Uncontrolled fire,6
+LOP_46,Lopur,Uncontrolled fire,5
+LOP_47,Lopur,Uncontrolled fire,8
+LOP_48,Lopur,Uncontrolled fire,8
+LOP_49,Lopur,Uncontrolled fire,9
+LOP_50,Lopur,Uncontrolled fire,9
+LOP_51,Lopur,Uncontrolled fire,5
+LOP_52,Lopur,Uncontrolled fire,9
+LOP_53,Lopur,Uncontrolled fire,8
+LOP_54,Lopur,Uncontrolled fire,6
+LOP_55,Lopur,Uncontrolled fire,9
+LOP_56,Lopur,Uncontrolled fire,8
+LOP_57,Lopur,Uncontrolled fire,8
+LOP_58,Lopur,Uncontrolled fire,10
+LOP_59,Lopur,Uncontrolled fire,5
+LOP_60,Lopur,Uncontrolled fire,6
+LOP_61,Lopur,Uncontrolled fire,6
+LOP_62,Lopur,Uncontrolled fire,8
+LOP_63,Lopur,Uncontrolled fire,9
+LOP_64,Lopur,Uncontrolled fire,9
+LOP_65,Lopur,Uncontrolled fire,10
+LOP_66,Lopur,Uncontrolled fire,7
+LOP_67,Lopur,Uncontrolled fire,7
+LOP_68,Lopur,Uncontrolled fire,10
+LOP_69,Lopur,Uncontrolled fire,5
+LOP_70,Lopur,Uncontrolled fire,9
+LOP_71,Lopur,Uncontrolled fire,9
+LOP_72,Lopur,Uncontrolled fire,10
+LOP_73,Lopur,Uncontrolled fire,5
+LOP_74,Lopur,Uncontrolled fire,9
+LOP_75,Lopur,Uncontrolled fire,9
+LOP_76,Lopur,Uncontrolled fire,6
+LOP_77,Lopur,Uncontrolled fire,9
+LOP_78,Lopur,Uncontrolled fire,7
+LOP_79,Lopur,Uncontrolled fire,7
+LOP_80,Lopur,Uncontrolled fire,9
+"NAS_1",Nasiger,Selective harvesting/Overharvesting,4
+"NAS_2",Nasiger,Selective harvesting/Overharvesting,10
+"NAS_3",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_4",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_5",Nasiger,Selective harvesting/Overharvesting,9
+"NAS_6",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_7",Nasiger,Selective harvesting/Overharvesting,7
+"NAS_8",Nasiger,Selective harvesting/Overharvesting,10
+"NAS_9",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_10",Nasiger,Selective harvesting/Overharvesting,8
+"NAS_11",Nasiger,Selective harvesting/Overharvesting,10
+"NAS_12",Nasiger,Selective harvesting/Overharvesting,4
+"NAS_13",Nasiger,Selective harvesting/Overharvesting,4
+"NAS_14",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_15",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_16",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_17",Nasiger,Selective harvesting/Overharvesting,9
+"NAS_18",Nasiger,Selective harvesting/Overharvesting,7
+"NAS_19",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_20",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_21",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_22",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_23",Nasiger,Selective harvesting/Overharvesting,10
+"NAS_24",Nasiger,Selective harvesting/Overharvesting,7
+"NAS_25",Nasiger,Selective harvesting/Overharvesting,8
+"NAS_26",Nasiger,Selective harvesting/Overharvesting,7
+"NAS_27",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_28",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_29",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_30",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_31",Nasiger,Selective harvesting/Overharvesting,4
+"NAS_32",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_33",Nasiger,Selective harvesting/Overharvesting,4
+"NAS_34",Nasiger,Selective harvesting/Overharvesting,2
+"NAS_35",Nasiger,Selective harvesting/Overharvesting,7
+"NAS_36",Nasiger,Selective harvesting/Overharvesting,4
+"NAS_37",Nasiger,Selective harvesting/Overharvesting,2
+"NAS_38",Nasiger,Selective harvesting/Overharvesting,4
+"NAS_39",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_40",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_41",Nasiger,Selective harvesting/Overharvesting,4
+"NAS_42",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_43",Nasiger,Selective harvesting/Overharvesting,10
+"NAS_44",Nasiger,Selective harvesting/Overharvesting,9
+"NAS_45",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_46",Nasiger,Selective harvesting/Overharvesting,8
+"NAS_47",Nasiger,Selective harvesting/Overharvesting,7
+"NAS_48",Nasiger,Selective harvesting/Overharvesting,10
+"NAS_49",Nasiger,Selective harvesting/Overharvesting,10
+"NAS_50",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_51",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_52",Nasiger,Selective harvesting/Overharvesting,2
+"NAS_53",Nasiger,Selective harvesting/Overharvesting,10
+"NAS_54",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_55",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_56",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_57",Nasiger,Selective harvesting/Overharvesting,8
+"NAS_58",Nasiger,Selective harvesting/Overharvesting,7
+"NAS_59",Nasiger,Selective harvesting/Overharvesting,10
+"NAS_60",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_61",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_62",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_63",Nasiger,Selective harvesting/Overharvesting,5
+"NAS_64",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_65",Nasiger,Selective harvesting/Overharvesting,10
+"NAS_66",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_67",Nasiger,Selective harvesting/Overharvesting,8
+"NAS_68",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_69",Nasiger,Selective harvesting/Overharvesting,9
+"NAS_70",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_71",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_72",Nasiger,Selective harvesting/Overharvesting,3
+"NAS_73",Nasiger,Selective harvesting/Overharvesting,4
+"NAS_74",Nasiger,Selective harvesting/Overharvesting,4
+"NAS_75",Nasiger,Selective harvesting/Overharvesting,8
+"NAS_76",Nasiger,Selective harvesting/Overharvesting,8
+"NAS_77",Nasiger,Selective harvesting/Overharvesting,9
+"NAS_78",Nasiger,Selective harvesting/Overharvesting,6
+"NAS_79",Nasiger,Selective harvesting/Overharvesting,2
+"NAS_80",Nasiger,Selective harvesting/Overharvesting,7
+ATA_1,Atala Kamusio,Selective harvesting/Overharvesting,5
+ATA_2,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_3,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_4,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_5,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_6,Atala Kamusio,Selective harvesting/Overharvesting,3
+ATA_7,Atala Kamusio,Selective harvesting/Overharvesting,2
+ATA_8,Atala Kamusio,Selective harvesting/Overharvesting,4
+ATA_9,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_10,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_11,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_12,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_13,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_14,Atala Kamusio,Selective harvesting/Overharvesting,9
+ATA_15,Atala Kamusio,Selective harvesting/Overharvesting,5
+ATA_16,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_17,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_18,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_19,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_20,Atala Kamusio,Selective harvesting/Overharvesting,4
+ATA_21,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_22,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_23,Atala Kamusio,Selective harvesting/Overharvesting,2
+ATA_24,Atala Kamusio,Selective harvesting/Overharvesting,4
+ATA_25,Atala Kamusio,Selective harvesting/Overharvesting,2
+ATA_26,Atala Kamusio,Selective harvesting/Overharvesting,4
+ATA_27,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_28,Atala Kamusio,Selective harvesting/Overharvesting,9
+ATA_29,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_30,Atala Kamusio,Selective harvesting/Overharvesting,3
+ATA_31,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_32,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_33,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_34,Atala Kamusio,Selective harvesting/Overharvesting,9
+ATA_35,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_36,Atala Kamusio,Selective harvesting/Overharvesting,3
+ATA_37,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_38,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_39,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_40,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_41,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_42,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_43,Atala Kamusio,Selective harvesting/Overharvesting,9
+ATA_44,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_45,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_46,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_47,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_48,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_49,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_50,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_51,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_52,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_53,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_54,Atala Kamusio,Selective harvesting/Overharvesting,4
+ATA_55,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_56,Atala Kamusio,Selective harvesting/Overharvesting,6
+ATA_57,Atala Kamusio,Selective harvesting/Overharvesting,4
+ATA_58,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_59,Atala Kamusio,Selective harvesting/Overharvesting,9
+ATA_60,Atala Kamusio,Selective harvesting/Overharvesting,9
+ATA_61,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_62,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_63,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_64,Atala Kamusio,Selective harvesting/Overharvesting,9
+ATA_65,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_66,Atala Kamusio,Selective harvesting/Overharvesting,4
+ATA_67,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_68,Atala Kamusio,Selective harvesting/Overharvesting,3
+ATA_69,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_70,Atala Kamusio,Selective harvesting/Overharvesting,2
+ATA_71,Atala Kamusio,Selective harvesting/Overharvesting,3
+ATA_72,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_73,Atala Kamusio,Selective harvesting/Overharvesting,5
+ATA_74,Atala Kamusio,Selective harvesting/Overharvesting,9
+ATA_75,Atala Kamusio,Selective harvesting/Overharvesting,4
+ATA_76,Atala Kamusio,Selective harvesting/Overharvesting,7
+ATA_77,Atala Kamusio,Selective harvesting/Overharvesting,9
+ATA_78,Atala Kamusio,Selective harvesting/Overharvesting,10
+ATA_79,Atala Kamusio,Selective harvesting/Overharvesting,8
+ATA_80,Atala Kamusio,Selective harvesting/Overharvesting,7
+LOP_1,Lopur,Selective harvesting/Overharvesting,3
+LOP_2,Lopur,Selective harvesting/Overharvesting,8
+LOP_3,Lopur,Selective harvesting/Overharvesting,7
+LOP_4,Lopur,Selective harvesting/Overharvesting,3
+LOP_5,Lopur,Selective harvesting/Overharvesting,5
+LOP_6,Lopur,Selective harvesting/Overharvesting,2
+LOP_7,Lopur,Selective harvesting/Overharvesting,5
+LOP_8,Lopur,Selective harvesting/Overharvesting,8
+LOP_9,Lopur,Selective harvesting/Overharvesting,9
+LOP_10,Lopur,Selective harvesting/Overharvesting,3
+LOP_11,Lopur,Selective harvesting/Overharvesting,6
+LOP_12,Lopur,Selective harvesting/Overharvesting,6
+LOP_13,Lopur,Selective harvesting/Overharvesting,9
+LOP_14,Lopur,Selective harvesting/Overharvesting,8
+LOP_15,Lopur,Selective harvesting/Overharvesting,5
+LOP_16,Lopur,Selective harvesting/Overharvesting,7
+LOP_17,Lopur,Selective harvesting/Overharvesting,3
+LOP_18,Lopur,Selective harvesting/Overharvesting,5
+LOP_19,Lopur,Selective harvesting/Overharvesting,3
+LOP_20,Lopur,Selective harvesting/Overharvesting,6
+LOP_21,Lopur,Selective harvesting/Overharvesting,2
+LOP_22,Lopur,Selective harvesting/Overharvesting,9
+LOP_23,Lopur,Selective harvesting/Overharvesting,9
+LOP_24,Lopur,Selective harvesting/Overharvesting,4
+LOP_25,Lopur,Selective harvesting/Overharvesting,2
+LOP_26,Lopur,Selective harvesting/Overharvesting,9
+LOP_27,Lopur,Selective harvesting/Overharvesting,8
+LOP_28,Lopur,Selective harvesting/Overharvesting,4
+LOP_29,Lopur,Selective harvesting/Overharvesting,3
+LOP_30,Lopur,Selective harvesting/Overharvesting,2
+LOP_31,Lopur,Selective harvesting/Overharvesting,2
+LOP_32,Lopur,Selective harvesting/Overharvesting,2
+LOP_33,Lopur,Selective harvesting/Overharvesting,9
+LOP_34,Lopur,Selective harvesting/Overharvesting,3
+LOP_35,Lopur,Selective harvesting/Overharvesting,8
+LOP_36,Lopur,Selective harvesting/Overharvesting,5
+LOP_37,Lopur,Selective harvesting/Overharvesting,3
+LOP_38,Lopur,Selective harvesting/Overharvesting,4
+LOP_39,Lopur,Selective harvesting/Overharvesting,8
+LOP_40,Lopur,Selective harvesting/Overharvesting,6
+LOP_41,Lopur,Selective harvesting/Overharvesting,5
+LOP_42,Lopur,Selective harvesting/Overharvesting,8
+LOP_43,Lopur,Selective harvesting/Overharvesting,2
+LOP_44,Lopur,Selective harvesting/Overharvesting,2
+LOP_45,Lopur,Selective harvesting/Overharvesting,3
+LOP_46,Lopur,Selective harvesting/Overharvesting,8
+LOP_47,Lopur,Selective harvesting/Overharvesting,8
+LOP_48,Lopur,Selective harvesting/Overharvesting,5
+LOP_49,Lopur,Selective harvesting/Overharvesting,9
+LOP_50,Lopur,Selective harvesting/Overharvesting,2
+LOP_51,Lopur,Selective harvesting/Overharvesting,8
+LOP_52,Lopur,Selective harvesting/Overharvesting,2
+LOP_53,Lopur,Selective harvesting/Overharvesting,8
+LOP_54,Lopur,Selective harvesting/Overharvesting,8
+LOP_55,Lopur,Selective harvesting/Overharvesting,2
+LOP_56,Lopur,Selective harvesting/Overharvesting,4
+LOP_57,Lopur,Selective harvesting/Overharvesting,3
+LOP_58,Lopur,Selective harvesting/Overharvesting,6
+LOP_59,Lopur,Selective harvesting/Overharvesting,9
+LOP_60,Lopur,Selective harvesting/Overharvesting,9
+LOP_61,Lopur,Selective harvesting/Overharvesting,3
+LOP_62,Lopur,Selective harvesting/Overharvesting,7
+LOP_63,Lopur,Selective harvesting/Overharvesting,6
+LOP_64,Lopur,Selective harvesting/Overharvesting,8
+LOP_65,Lopur,Selective harvesting/Overharvesting,9
+LOP_66,Lopur,Selective harvesting/Overharvesting,8
+LOP_67,Lopur,Selective harvesting/Overharvesting,9
+LOP_68,Lopur,Selective harvesting/Overharvesting,7
+LOP_69,Lopur,Selective harvesting/Overharvesting,2
+LOP_70,Lopur,Selective harvesting/Overharvesting,3
+LOP_71,Lopur,Selective harvesting/Overharvesting,9
+LOP_72,Lopur,Selective harvesting/Overharvesting,6
+LOP_73,Lopur,Selective harvesting/Overharvesting,6
+LOP_74,Lopur,Selective harvesting/Overharvesting,4
+LOP_75,Lopur,Selective harvesting/Overharvesting,3
+LOP_76,Lopur,Selective harvesting/Overharvesting,8
+LOP_77,Lopur,Selective harvesting/Overharvesting,9
+LOP_78,Lopur,Selective harvesting/Overharvesting,3
+LOP_79,Lopur,Selective harvesting/Overharvesting,5
+LOP_80,Lopur,Selective harvesting/Overharvesting,3
+"NAS_1",Nasiger,Invasive species,6
+"NAS_2",Nasiger,Invasive species,5
+"NAS_3",Nasiger,Invasive species,9
+"NAS_4",Nasiger,Invasive species,5
+"NAS_5",Nasiger,Invasive species,8
+"NAS_6",Nasiger,Invasive species,3
+"NAS_7",Nasiger,Invasive species,5
+"NAS_8",Nasiger,Invasive species,5
+"NAS_9",Nasiger,Invasive species,4
+"NAS_10",Nasiger,Invasive species,5
+"NAS_11",Nasiger,Invasive species,3
+"NAS_12",Nasiger,Invasive species,7
+"NAS_13",Nasiger,Invasive species,8
+"NAS_14",Nasiger,Invasive species,8
+"NAS_15",Nasiger,Invasive species,9
+"NAS_16",Nasiger,Invasive species,3
+"NAS_17",Nasiger,Invasive species,8
+"NAS_18",Nasiger,Invasive species,6
+"NAS_19",Nasiger,Invasive species,8
+"NAS_20",Nasiger,Invasive species,5
+"NAS_21",Nasiger,Invasive species,7
+"NAS_22",Nasiger,Invasive species,3
+"NAS_23",Nasiger,Invasive species,9
+"NAS_24",Nasiger,Invasive species,4
+"NAS_25",Nasiger,Invasive species,7
+"NAS_26",Nasiger,Invasive species,6
+"NAS_27",Nasiger,Invasive species,3
+"NAS_28",Nasiger,Invasive species,6
+"NAS_29",Nasiger,Invasive species,8
+"NAS_30",Nasiger,Invasive species,6
+"NAS_31",Nasiger,Invasive species,9
+"NAS_32",Nasiger,Invasive species,7
+"NAS_33",Nasiger,Invasive species,5
+"NAS_34",Nasiger,Invasive species,4
+"NAS_35",Nasiger,Invasive species,8
+"NAS_36",Nasiger,Invasive species,3
+"NAS_37",Nasiger,Invasive species,7
+"NAS_38",Nasiger,Invasive species,6
+"NAS_39",Nasiger,Invasive species,4
+"NAS_40",Nasiger,Invasive species,6
+"NAS_41",Nasiger,Invasive species,8
+"NAS_42",Nasiger,Invasive species,5
+"NAS_43",Nasiger,Invasive species,5
+"NAS_44",Nasiger,Invasive species,8
+"NAS_45",Nasiger,Invasive species,3
+"NAS_46",Nasiger,Invasive species,5
+"NAS_47",Nasiger,Invasive species,3
+"NAS_48",Nasiger,Invasive species,4
+"NAS_49",Nasiger,Invasive species,9
+"NAS_50",Nasiger,Invasive species,9
+"NAS_51",Nasiger,Invasive species,3
+"NAS_52",Nasiger,Invasive species,3
+"NAS_53",Nasiger,Invasive species,4
+"NAS_54",Nasiger,Invasive species,6
+"NAS_55",Nasiger,Invasive species,6
+"NAS_56",Nasiger,Invasive species,9
+"NAS_57",Nasiger,Invasive species,6
+"NAS_58",Nasiger,Invasive species,8
+"NAS_59",Nasiger,Invasive species,3
+"NAS_60",Nasiger,Invasive species,7
+"NAS_61",Nasiger,Invasive species,8
+"NAS_62",Nasiger,Invasive species,3
+"NAS_63",Nasiger,Invasive species,3
+"NAS_64",Nasiger,Invasive species,9
+"NAS_65",Nasiger,Invasive species,6
+"NAS_66",Nasiger,Invasive species,9
+"NAS_67",Nasiger,Invasive species,6
+"NAS_68",Nasiger,Invasive species,9
+"NAS_69",Nasiger,Invasive species,8
+"NAS_70",Nasiger,Invasive species,3
+"NAS_71",Nasiger,Invasive species,6
+"NAS_72",Nasiger,Invasive species,9
+"NAS_73",Nasiger,Invasive species,9
+"NAS_74",Nasiger,Invasive species,8
+"NAS_75",Nasiger,Invasive species,6
+"NAS_76",Nasiger,Invasive species,4
+"NAS_77",Nasiger,Invasive species,9
+"NAS_78",Nasiger,Invasive species,4
+"NAS_79",Nasiger,Invasive species,6
+"NAS_80",Nasiger,Invasive species,6
+ATA_1,Atala Kamusio,Invasive species,4
+ATA_2,Atala Kamusio,Invasive species,7
+ATA_3,Atala Kamusio,Invasive species,2
+ATA_4,Atala Kamusio,Invasive species,1
+ATA_5,Atala Kamusio,Invasive species,3
+ATA_6,Atala Kamusio,Invasive species,5
+ATA_7,Atala Kamusio,Invasive species,5
+ATA_8,Atala Kamusio,Invasive species,2
+ATA_9,Atala Kamusio,Invasive species,7
+ATA_10,Atala Kamusio,Invasive species,7
+ATA_11,Atala Kamusio,Invasive species,1
+ATA_12,Atala Kamusio,Invasive species,1
+ATA_13,Atala Kamusio,Invasive species,7
+ATA_14,Atala Kamusio,Invasive species,8
+ATA_15,Atala Kamusio,Invasive species,5
+ATA_16,Atala Kamusio,Invasive species,4
+ATA_17,Atala Kamusio,Invasive species,2
+ATA_18,Atala Kamusio,Invasive species,7
+ATA_19,Atala Kamusio,Invasive species,3
+ATA_20,Atala Kamusio,Invasive species,3
+ATA_21,Atala Kamusio,Invasive species,4
+ATA_22,Atala Kamusio,Invasive species,4
+ATA_23,Atala Kamusio,Invasive species,1
+ATA_24,Atala Kamusio,Invasive species,3
+ATA_25,Atala Kamusio,Invasive species,2
+ATA_26,Atala Kamusio,Invasive species,4
+ATA_27,Atala Kamusio,Invasive species,7
+ATA_28,Atala Kamusio,Invasive species,2
+ATA_29,Atala Kamusio,Invasive species,5
+ATA_30,Atala Kamusio,Invasive species,5
+ATA_31,Atala Kamusio,Invasive species,2
+ATA_32,Atala Kamusio,Invasive species,3
+ATA_33,Atala Kamusio,Invasive species,7
+ATA_34,Atala Kamusio,Invasive species,3
+ATA_35,Atala Kamusio,Invasive species,4
+ATA_36,Atala Kamusio,Invasive species,2
+ATA_37,Atala Kamusio,Invasive species,3
+ATA_38,Atala Kamusio,Invasive species,1
+ATA_39,Atala Kamusio,Invasive species,2
+ATA_40,Atala Kamusio,Invasive species,4
+ATA_41,Atala Kamusio,Invasive species,7
+ATA_42,Atala Kamusio,Invasive species,5
+ATA_43,Atala Kamusio,Invasive species,1
+ATA_44,Atala Kamusio,Invasive species,3
+ATA_45,Atala Kamusio,Invasive species,6
+ATA_46,Atala Kamusio,Invasive species,1
+ATA_47,Atala Kamusio,Invasive species,2
+ATA_48,Atala Kamusio,Invasive species,8
+ATA_49,Atala Kamusio,Invasive species,7
+ATA_50,Atala Kamusio,Invasive species,7
+ATA_51,Atala Kamusio,Invasive species,3
+ATA_52,Atala Kamusio,Invasive species,2
+ATA_53,Atala Kamusio,Invasive species,8
+ATA_54,Atala Kamusio,Invasive species,2
+ATA_55,Atala Kamusio,Invasive species,7
+ATA_56,Atala Kamusio,Invasive species,4
+ATA_57,Atala Kamusio,Invasive species,7
+ATA_58,Atala Kamusio,Invasive species,5
+ATA_59,Atala Kamusio,Invasive species,6
+ATA_60,Atala Kamusio,Invasive species,6
+ATA_61,Atala Kamusio,Invasive species,1
+ATA_62,Atala Kamusio,Invasive species,8
+ATA_63,Atala Kamusio,Invasive species,3
+ATA_64,Atala Kamusio,Invasive species,1
+ATA_65,Atala Kamusio,Invasive species,3
+ATA_66,Atala Kamusio,Invasive species,1
+ATA_67,Atala Kamusio,Invasive species,2
+ATA_68,Atala Kamusio,Invasive species,4
+ATA_69,Atala Kamusio,Invasive species,7
+ATA_70,Atala Kamusio,Invasive species,5
+ATA_71,Atala Kamusio,Invasive species,3
+ATA_72,Atala Kamusio,Invasive species,8
+ATA_73,Atala Kamusio,Invasive species,5
+ATA_74,Atala Kamusio,Invasive species,6
+ATA_75,Atala Kamusio,Invasive species,6
+ATA_76,Atala Kamusio,Invasive species,5
+ATA_77,Atala Kamusio,Invasive species,5
+ATA_78,Atala Kamusio,Invasive species,1
+ATA_79,Atala Kamusio,Invasive species,8
+ATA_80,Atala Kamusio,Invasive species,1
+LOP_1,Lopur,Invasive species,8
+LOP_2,Lopur,Invasive species,5
+LOP_3,Lopur,Invasive species,5
+LOP_4,Lopur,Invasive species,7
+LOP_5,Lopur,Invasive species,6
+LOP_6,Lopur,Invasive species,10
+LOP_7,Lopur,Invasive species,8
+LOP_8,Lopur,Invasive species,9
+LOP_9,Lopur,Invasive species,5
+LOP_10,Lopur,Invasive species,7
+LOP_11,Lopur,Invasive species,9
+LOP_12,Lopur,Invasive species,10
+LOP_13,Lopur,Invasive species,8
+LOP_14,Lopur,Invasive species,9
+LOP_15,Lopur,Invasive species,6
+LOP_16,Lopur,Invasive species,5
+LOP_17,Lopur,Invasive species,9
+LOP_18,Lopur,Invasive species,6
+LOP_19,Lopur,Invasive species,7
+LOP_20,Lopur,Invasive species,7
+LOP_21,Lopur,Invasive species,5
+LOP_22,Lopur,Invasive species,6
+LOP_23,Lopur,Invasive species,9
+LOP_24,Lopur,Invasive species,10
+LOP_25,Lopur,Invasive species,7
+LOP_26,Lopur,Invasive species,6
+LOP_27,Lopur,Invasive species,10
+LOP_28,Lopur,Invasive species,5
+LOP_29,Lopur,Invasive species,8
+LOP_30,Lopur,Invasive species,7
+LOP_31,Lopur,Invasive species,10
+LOP_32,Lopur,Invasive species,5
+LOP_33,Lopur,Invasive species,9
+LOP_34,Lopur,Invasive species,9
+LOP_35,Lopur,Invasive species,8
+LOP_36,Lopur,Invasive species,10
+LOP_37,Lopur,Invasive species,9
+LOP_38,Lopur,Invasive species,10
+LOP_39,Lopur,Invasive species,5
+LOP_40,Lopur,Invasive species,9
+LOP_41,Lopur,Invasive species,9
+LOP_42,Lopur,Invasive species,10
+LOP_43,Lopur,Invasive species,9
+LOP_44,Lopur,Invasive species,9
+LOP_45,Lopur,Invasive species,7
+LOP_46,Lopur,Invasive species,10
+LOP_47,Lopur,Invasive species,7
+LOP_48,Lopur,Invasive species,10
+LOP_49,Lopur,Invasive species,6
+LOP_50,Lopur,Invasive species,10
+LOP_51,Lopur,Invasive species,10
+LOP_52,Lopur,Invasive species,8
+LOP_53,Lopur,Invasive species,10
+LOP_54,Lopur,Invasive species,6
+LOP_55,Lopur,Invasive species,10
+LOP_56,Lopur,Invasive species,10
+LOP_57,Lopur,Invasive species,10
+LOP_58,Lopur,Invasive species,7
+LOP_59,Lopur,Invasive species,10
+LOP_60,Lopur,Invasive species,8
+LOP_61,Lopur,Invasive species,6
+LOP_62,Lopur,Invasive species,7
+LOP_63,Lopur,Invasive species,7
+LOP_64,Lopur,Invasive species,6
+LOP_65,Lopur,Invasive species,7
+LOP_66,Lopur,Invasive species,10
+LOP_67,Lopur,Invasive species,8
+LOP_68,Lopur,Invasive species,8
+LOP_69,Lopur,Invasive species,6
+LOP_70,Lopur,Invasive species,6
+LOP_71,Lopur,Invasive species,10
+LOP_72,Lopur,Invasive species,10
+LOP_73,Lopur,Invasive species,10
+LOP_74,Lopur,Invasive species,9
+LOP_75,Lopur,Invasive species,8
+LOP_76,Lopur,Invasive species,6
+LOP_77,Lopur,Invasive species,8
+LOP_78,Lopur,Invasive species,5
+LOP_79,Lopur,Invasive species,7
+LOP_80,Lopur,Invasive species,5
+"NAS_1",Nasiger,Infrastructural development,1
+"NAS_2",Nasiger,Infrastructural development,1
+"NAS_3",Nasiger,Infrastructural development,2
+"NAS_4",Nasiger,Infrastructural development,2
+"NAS_5",Nasiger,Infrastructural development,2
+"NAS_6",Nasiger,Infrastructural development,1
+"NAS_7",Nasiger,Infrastructural development,3
+"NAS_8",Nasiger,Infrastructural development,1
+"NAS_9",Nasiger,Infrastructural development,2
+"NAS_10",Nasiger,Infrastructural development,2
+"NAS_11",Nasiger,Infrastructural development,2
+"NAS_12",Nasiger,Infrastructural development,3
+"NAS_13",Nasiger,Infrastructural development,1
+"NAS_14",Nasiger,Infrastructural development,2
+"NAS_15",Nasiger,Infrastructural development,2
+"NAS_16",Nasiger,Infrastructural development,3
+"NAS_17",Nasiger,Infrastructural development,3
+"NAS_18",Nasiger,Infrastructural development,3
+"NAS_19",Nasiger,Infrastructural development,3
+"NAS_20",Nasiger,Infrastructural development,2
+"NAS_21",Nasiger,Infrastructural development,2
+"NAS_22",Nasiger,Infrastructural development,1
+"NAS_23",Nasiger,Infrastructural development,2
+"NAS_24",Nasiger,Infrastructural development,2
+"NAS_25",Nasiger,Infrastructural development,3
+"NAS_26",Nasiger,Infrastructural development,2
+"NAS_27",Nasiger,Infrastructural development,1
+"NAS_28",Nasiger,Infrastructural development,3
+"NAS_29",Nasiger,Infrastructural development,3
+"NAS_30",Nasiger,Infrastructural development,1
+"NAS_31",Nasiger,Infrastructural development,3
+"NAS_32",Nasiger,Infrastructural development,1
+"NAS_33",Nasiger,Infrastructural development,3
+"NAS_34",Nasiger,Infrastructural development,2
+"NAS_35",Nasiger,Infrastructural development,3
+"NAS_36",Nasiger,Infrastructural development,3
+"NAS_37",Nasiger,Infrastructural development,2
+"NAS_38",Nasiger,Infrastructural development,3
+"NAS_39",Nasiger,Infrastructural development,2
+"NAS_40",Nasiger,Infrastructural development,2
+"NAS_41",Nasiger,Infrastructural development,1
+"NAS_42",Nasiger,Infrastructural development,2
+"NAS_43",Nasiger,Infrastructural development,2
+"NAS_44",Nasiger,Infrastructural development,3
+"NAS_45",Nasiger,Infrastructural development,3
+"NAS_46",Nasiger,Infrastructural development,1
+"NAS_47",Nasiger,Infrastructural development,2
+"NAS_48",Nasiger,Infrastructural development,2
+"NAS_49",Nasiger,Infrastructural development,1
+"NAS_50",Nasiger,Infrastructural development,3
+"NAS_51",Nasiger,Infrastructural development,2
+"NAS_52",Nasiger,Infrastructural development,3
+"NAS_53",Nasiger,Infrastructural development,1
+"NAS_54",Nasiger,Infrastructural development,2
+"NAS_55",Nasiger,Infrastructural development,2
+"NAS_56",Nasiger,Infrastructural development,1
+"NAS_57",Nasiger,Infrastructural development,1
+"NAS_58",Nasiger,Infrastructural development,2
+"NAS_59",Nasiger,Infrastructural development,1
+"NAS_60",Nasiger,Infrastructural development,3
+"NAS_61",Nasiger,Infrastructural development,2
+"NAS_62",Nasiger,Infrastructural development,2
+"NAS_63",Nasiger,Infrastructural development,1
+"NAS_64",Nasiger,Infrastructural development,3
+"NAS_65",Nasiger,Infrastructural development,3
+"NAS_66",Nasiger,Infrastructural development,2
+"NAS_67",Nasiger,Infrastructural development,1
+"NAS_68",Nasiger,Infrastructural development,2
+"NAS_69",Nasiger,Infrastructural development,3
+"NAS_70",Nasiger,Infrastructural development,3
+"NAS_71",Nasiger,Infrastructural development,3
+"NAS_72",Nasiger,Infrastructural development,1
+"NAS_73",Nasiger,Infrastructural development,2
+"NAS_74",Nasiger,Infrastructural development,2
+"NAS_75",Nasiger,Infrastructural development,3
+"NAS_76",Nasiger,Infrastructural development,3
+"NAS_77",Nasiger,Infrastructural development,3
+"NAS_78",Nasiger,Infrastructural development,1
+"NAS_79",Nasiger,Infrastructural development,3
+"NAS_80",Nasiger,Infrastructural development,2
+ATA_1,Atala Kamusio,Infrastructural development,1
+ATA_2,Atala Kamusio,Infrastructural development,2
+ATA_3,Atala Kamusio,Infrastructural development,2
+ATA_4,Atala Kamusio,Infrastructural development,2
+ATA_5,Atala Kamusio,Infrastructural development,3
+ATA_6,Atala Kamusio,Infrastructural development,3
+ATA_7,Atala Kamusio,Infrastructural development,3
+ATA_8,Atala Kamusio,Infrastructural development,2
+ATA_9,Atala Kamusio,Infrastructural development,2
+ATA_10,Atala Kamusio,Infrastructural development,1
+ATA_11,Atala Kamusio,Infrastructural development,2
+ATA_12,Atala Kamusio,Infrastructural development,3
+ATA_13,Atala Kamusio,Infrastructural development,3
+ATA_14,Atala Kamusio,Infrastructural development,3
+ATA_15,Atala Kamusio,Infrastructural development,2
+ATA_16,Atala Kamusio,Infrastructural development,3
+ATA_17,Atala Kamusio,Infrastructural development,2
+ATA_18,Atala Kamusio,Infrastructural development,2
+ATA_19,Atala Kamusio,Infrastructural development,3
+ATA_20,Atala Kamusio,Infrastructural development,1
+ATA_21,Atala Kamusio,Infrastructural development,2
+ATA_22,Atala Kamusio,Infrastructural development,2
+ATA_23,Atala Kamusio,Infrastructural development,2
+ATA_24,Atala Kamusio,Infrastructural development,1
+ATA_25,Atala Kamusio,Infrastructural development,2
+ATA_26,Atala Kamusio,Infrastructural development,1
+ATA_27,Atala Kamusio,Infrastructural development,1
+ATA_28,Atala Kamusio,Infrastructural development,1
+ATA_29,Atala Kamusio,Infrastructural development,2
+ATA_30,Atala Kamusio,Infrastructural development,2
+ATA_31,Atala Kamusio,Infrastructural development,2
+ATA_32,Atala Kamusio,Infrastructural development,2
+ATA_33,Atala Kamusio,Infrastructural development,3
+ATA_34,Atala Kamusio,Infrastructural development,1
+ATA_35,Atala Kamusio,Infrastructural development,3
+ATA_36,Atala Kamusio,Infrastructural development,2
+ATA_37,Atala Kamusio,Infrastructural development,1
+ATA_38,Atala Kamusio,Infrastructural development,2
+ATA_39,Atala Kamusio,Infrastructural development,2
+ATA_40,Atala Kamusio,Infrastructural development,1
+ATA_41,Atala Kamusio,Infrastructural development,1
+ATA_42,Atala Kamusio,Infrastructural development,3
+ATA_43,Atala Kamusio,Infrastructural development,2
+ATA_44,Atala Kamusio,Infrastructural development,2
+ATA_45,Atala Kamusio,Infrastructural development,3
+ATA_46,Atala Kamusio,Infrastructural development,1
+ATA_47,Atala Kamusio,Infrastructural development,2
+ATA_48,Atala Kamusio,Infrastructural development,3
+ATA_49,Atala Kamusio,Infrastructural development,3
+ATA_50,Atala Kamusio,Infrastructural development,1
+ATA_51,Atala Kamusio,Infrastructural development,3
+ATA_52,Atala Kamusio,Infrastructural development,1
+ATA_53,Atala Kamusio,Infrastructural development,3
+ATA_54,Atala Kamusio,Infrastructural development,3
+ATA_55,Atala Kamusio,Infrastructural development,3
+ATA_56,Atala Kamusio,Infrastructural development,2
+ATA_57,Atala Kamusio,Infrastructural development,1
+ATA_58,Atala Kamusio,Infrastructural development,2
+ATA_59,Atala Kamusio,Infrastructural development,1
+ATA_60,Atala Kamusio,Infrastructural development,2
+ATA_61,Atala Kamusio,Infrastructural development,3
+ATA_62,Atala Kamusio,Infrastructural development,1
+ATA_63,Atala Kamusio,Infrastructural development,2
+ATA_64,Atala Kamusio,Infrastructural development,1
+ATA_65,Atala Kamusio,Infrastructural development,3
+ATA_66,Atala Kamusio,Infrastructural development,1
+ATA_67,Atala Kamusio,Infrastructural development,1
+ATA_68,Atala Kamusio,Infrastructural development,2
+ATA_69,Atala Kamusio,Infrastructural development,2
+ATA_70,Atala Kamusio,Infrastructural development,2
+ATA_71,Atala Kamusio,Infrastructural development,1
+ATA_72,Atala Kamusio,Infrastructural development,1
+ATA_73,Atala Kamusio,Infrastructural development,2
+ATA_74,Atala Kamusio,Infrastructural development,2
+ATA_75,Atala Kamusio,Infrastructural development,1
+ATA_76,Atala Kamusio,Infrastructural development,1
+ATA_77,Atala Kamusio,Infrastructural development,2
+ATA_78,Atala Kamusio,Infrastructural development,1
+ATA_79,Atala Kamusio,Infrastructural development,2
+ATA_80,Atala Kamusio,Infrastructural development,1
+LOP_1,Lopur,Infrastructural development,6
+LOP_2,Lopur,Infrastructural development,4
+LOP_3,Lopur,Infrastructural development,1
+LOP_4,Lopur,Infrastructural development,1
+LOP_5,Lopur,Infrastructural development,4
+LOP_6,Lopur,Infrastructural development,1
+LOP_7,Lopur,Infrastructural development,5
+LOP_8,Lopur,Infrastructural development,1
+LOP_9,Lopur,Infrastructural development,1
+LOP_10,Lopur,Infrastructural development,2
+LOP_11,Lopur,Infrastructural development,4
+LOP_12,Lopur,Infrastructural development,2
+LOP_13,Lopur,Infrastructural development,6
+LOP_14,Lopur,Infrastructural development,5
+LOP_15,Lopur,Infrastructural development,6
+LOP_16,Lopur,Infrastructural development,3
+LOP_17,Lopur,Infrastructural development,2
+LOP_18,Lopur,Infrastructural development,3
+LOP_19,Lopur,Infrastructural development,6
+LOP_20,Lopur,Infrastructural development,3
+LOP_21,Lopur,Infrastructural development,2
+LOP_22,Lopur,Infrastructural development,2
+LOP_23,Lopur,Infrastructural development,3
+LOP_24,Lopur,Infrastructural development,3
+LOP_25,Lopur,Infrastructural development,6
+LOP_26,Lopur,Infrastructural development,3
+LOP_27,Lopur,Infrastructural development,6
+LOP_28,Lopur,Infrastructural development,6
+LOP_29,Lopur,Infrastructural development,5
+LOP_30,Lopur,Infrastructural development,2
+LOP_31,Lopur,Infrastructural development,6
+LOP_32,Lopur,Infrastructural development,6
+LOP_33,Lopur,Infrastructural development,6
+LOP_34,Lopur,Infrastructural development,2
+LOP_35,Lopur,Infrastructural development,4
+LOP_36,Lopur,Infrastructural development,3
+LOP_37,Lopur,Infrastructural development,1
+LOP_38,Lopur,Infrastructural development,1
+LOP_39,Lopur,Infrastructural development,2
+LOP_40,Lopur,Infrastructural development,5
+LOP_41,Lopur,Infrastructural development,3
+LOP_42,Lopur,Infrastructural development,2
+LOP_43,Lopur,Infrastructural development,4
+LOP_44,Lopur,Infrastructural development,1
+LOP_45,Lopur,Infrastructural development,1
+LOP_46,Lopur,Infrastructural development,3
+LOP_47,Lopur,Infrastructural development,4
+LOP_48,Lopur,Infrastructural development,1
+LOP_49,Lopur,Infrastructural development,2
+LOP_50,Lopur,Infrastructural development,3
+LOP_51,Lopur,Infrastructural development,2
+LOP_52,Lopur,Infrastructural development,2
+LOP_53,Lopur,Infrastructural development,6
+LOP_54,Lopur,Infrastructural development,2
+LOP_55,Lopur,Infrastructural development,4
+LOP_56,Lopur,Infrastructural development,6
+LOP_57,Lopur,Infrastructural development,2
+LOP_58,Lopur,Infrastructural development,5
+LOP_59,Lopur,Infrastructural development,4
+LOP_60,Lopur,Infrastructural development,5
+LOP_61,Lopur,Infrastructural development,5
+LOP_62,Lopur,Infrastructural development,2
+LOP_63,Lopur,Infrastructural development,1
+LOP_64,Lopur,Infrastructural development,5
+LOP_65,Lopur,Infrastructural development,4
+LOP_66,Lopur,Infrastructural development,3
+LOP_67,Lopur,Infrastructural development,6
+LOP_68,Lopur,Infrastructural development,2
+LOP_69,Lopur,Infrastructural development,5
+LOP_70,Lopur,Infrastructural development,6
+LOP_71,Lopur,Infrastructural development,2
+LOP_72,Lopur,Infrastructural development,2
+LOP_73,Lopur,Infrastructural development,5
+LOP_74,Lopur,Infrastructural development,1
+LOP_75,Lopur,Infrastructural development,6
+LOP_76,Lopur,Infrastructural development,6
+LOP_77,Lopur,Infrastructural development,2
+LOP_78,Lopur,Infrastructural development,6
+LOP_79,Lopur,Infrastructural development,6
+LOP_80,Lopur,Infrastructural development,5
+"NAS_1",Nasiger,Pests and diseases,2
+"NAS_2",Nasiger,Pests and diseases,2
+"NAS_3",Nasiger,Pests and diseases,1
+"NAS_4",Nasiger,Pests and diseases,1
+"NAS_5",Nasiger,Pests and diseases,2
+"NAS_6",Nasiger,Pests and diseases,4
+"NAS_7",Nasiger,Pests and diseases,4
+"NAS_8",Nasiger,Pests and diseases,1
+"NAS_9",Nasiger,Pests and diseases,1
+"NAS_10",Nasiger,Pests and diseases,3
+"NAS_11",Nasiger,Pests and diseases,3
+"NAS_12",Nasiger,Pests and diseases,2
+"NAS_13",Nasiger,Pests and diseases,4
+"NAS_14",Nasiger,Pests and diseases,4
+"NAS_15",Nasiger,Pests and diseases,4
+"NAS_16",Nasiger,Pests and diseases,2
+"NAS_17",Nasiger,Pests and diseases,1
+"NAS_18",Nasiger,Pests and diseases,2
+"NAS_19",Nasiger,Pests and diseases,1
+"NAS_20",Nasiger,Pests and diseases,1
+"NAS_21",Nasiger,Pests and diseases,3
+"NAS_22",Nasiger,Pests and diseases,4
+"NAS_23",Nasiger,Pests and diseases,2
+"NAS_24",Nasiger,Pests and diseases,1
+"NAS_25",Nasiger,Pests and diseases,3
+"NAS_26",Nasiger,Pests and diseases,3
+"NAS_27",Nasiger,Pests and diseases,4
+"NAS_28",Nasiger,Pests and diseases,3
+"NAS_29",Nasiger,Pests and diseases,3
+"NAS_30",Nasiger,Pests and diseases,1
+"NAS_31",Nasiger,Pests and diseases,2
+"NAS_32",Nasiger,Pests and diseases,1
+"NAS_33",Nasiger,Pests and diseases,4
+"NAS_34",Nasiger,Pests and diseases,4
+"NAS_35",Nasiger,Pests and diseases,2
+"NAS_36",Nasiger,Pests and diseases,1
+"NAS_37",Nasiger,Pests and diseases,2
+"NAS_38",Nasiger,Pests and diseases,3
+"NAS_39",Nasiger,Pests and diseases,3
+"NAS_40",Nasiger,Pests and diseases,1
+"NAS_41",Nasiger,Pests and diseases,4
+"NAS_42",Nasiger,Pests and diseases,4
+"NAS_43",Nasiger,Pests and diseases,4
+"NAS_44",Nasiger,Pests and diseases,4
+"NAS_45",Nasiger,Pests and diseases,1
+"NAS_46",Nasiger,Pests and diseases,3
+"NAS_47",Nasiger,Pests and diseases,1
+"NAS_48",Nasiger,Pests and diseases,2
+"NAS_49",Nasiger,Pests and diseases,1
+"NAS_50",Nasiger,Pests and diseases,2
+"NAS_51",Nasiger,Pests and diseases,2
+"NAS_52",Nasiger,Pests and diseases,4
+"NAS_53",Nasiger,Pests and diseases,2
+"NAS_54",Nasiger,Pests and diseases,3
+"NAS_55",Nasiger,Pests and diseases,4
+"NAS_56",Nasiger,Pests and diseases,3
+"NAS_57",Nasiger,Pests and diseases,3
+"NAS_58",Nasiger,Pests and diseases,2
+"NAS_59",Nasiger,Pests and diseases,3
+"NAS_60",Nasiger,Pests and diseases,1
+"NAS_61",Nasiger,Pests and diseases,4
+"NAS_62",Nasiger,Pests and diseases,4
+"NAS_63",Nasiger,Pests and diseases,4
+"NAS_64",Nasiger,Pests and diseases,1
+"NAS_65",Nasiger,Pests and diseases,2
+"NAS_66",Nasiger,Pests and diseases,3
+"NAS_67",Nasiger,Pests and diseases,2
+"NAS_68",Nasiger,Pests and diseases,2
+"NAS_69",Nasiger,Pests and diseases,1
+"NAS_70",Nasiger,Pests and diseases,4
+"NAS_71",Nasiger,Pests and diseases,2
+"NAS_72",Nasiger,Pests and diseases,3
+"NAS_73",Nasiger,Pests and diseases,2
+"NAS_74",Nasiger,Pests and diseases,2
+"NAS_75",Nasiger,Pests and diseases,2
+"NAS_76",Nasiger,Pests and diseases,1
+"NAS_77",Nasiger,Pests and diseases,3
+"NAS_78",Nasiger,Pests and diseases,1
+"NAS_79",Nasiger,Pests and diseases,4
+"NAS_80",Nasiger,Pests and diseases,2
+ATA_1,Atala Kamusio,Pests and diseases,1
+ATA_2,Atala Kamusio,Pests and diseases,1
+ATA_3,Atala Kamusio,Pests and diseases,4
+ATA_4,Atala Kamusio,Pests and diseases,3
+ATA_5,Atala Kamusio,Pests and diseases,3
+ATA_6,Atala Kamusio,Pests and diseases,2
+ATA_7,Atala Kamusio,Pests and diseases,2
+ATA_8,Atala Kamusio,Pests and diseases,2
+ATA_9,Atala Kamusio,Pests and diseases,3
+ATA_10,Atala Kamusio,Pests and diseases,4
+ATA_11,Atala Kamusio,Pests and diseases,3
+ATA_12,Atala Kamusio,Pests and diseases,2
+ATA_13,Atala Kamusio,Pests and diseases,4
+ATA_14,Atala Kamusio,Pests and diseases,4
+ATA_15,Atala Kamusio,Pests and diseases,3
+ATA_16,Atala Kamusio,Pests and diseases,3
+ATA_17,Atala Kamusio,Pests and diseases,4
+ATA_18,Atala Kamusio,Pests and diseases,3
+ATA_19,Atala Kamusio,Pests and diseases,1
+ATA_20,Atala Kamusio,Pests and diseases,2
+ATA_21,Atala Kamusio,Pests and diseases,1
+ATA_22,Atala Kamusio,Pests and diseases,3
+ATA_23,Atala Kamusio,Pests and diseases,2
+ATA_24,Atala Kamusio,Pests and diseases,2
+ATA_25,Atala Kamusio,Pests and diseases,2
+ATA_26,Atala Kamusio,Pests and diseases,1
+ATA_27,Atala Kamusio,Pests and diseases,2
+ATA_28,Atala Kamusio,Pests and diseases,4
+ATA_29,Atala Kamusio,Pests and diseases,2
+ATA_30,Atala Kamusio,Pests and diseases,3
+ATA_31,Atala Kamusio,Pests and diseases,3
+ATA_32,Atala Kamusio,Pests and diseases,4
+ATA_33,Atala Kamusio,Pests and diseases,3
+ATA_34,Atala Kamusio,Pests and diseases,3
+ATA_35,Atala Kamusio,Pests and diseases,4
+ATA_36,Atala Kamusio,Pests and diseases,2
+ATA_37,Atala Kamusio,Pests and diseases,3
+ATA_38,Atala Kamusio,Pests and diseases,4
+ATA_39,Atala Kamusio,Pests and diseases,1
+ATA_40,Atala Kamusio,Pests and diseases,1
+ATA_41,Atala Kamusio,Pests and diseases,4
+ATA_42,Atala Kamusio,Pests and diseases,1
+ATA_43,Atala Kamusio,Pests and diseases,2
+ATA_44,Atala Kamusio,Pests and diseases,2
+ATA_45,Atala Kamusio,Pests and diseases,2
+ATA_46,Atala Kamusio,Pests and diseases,4
+ATA_47,Atala Kamusio,Pests and diseases,2
+ATA_48,Atala Kamusio,Pests and diseases,4
+ATA_49,Atala Kamusio,Pests and diseases,1
+ATA_50,Atala Kamusio,Pests and diseases,1
+ATA_51,Atala Kamusio,Pests and diseases,3
+ATA_52,Atala Kamusio,Pests and diseases,1
+ATA_53,Atala Kamusio,Pests and diseases,2
+ATA_54,Atala Kamusio,Pests and diseases,1
+ATA_55,Atala Kamusio,Pests and diseases,4
+ATA_56,Atala Kamusio,Pests and diseases,2
+ATA_57,Atala Kamusio,Pests and diseases,4
+ATA_58,Atala Kamusio,Pests and diseases,1
+ATA_59,Atala Kamusio,Pests and diseases,1
+ATA_60,Atala Kamusio,Pests and diseases,2
+ATA_61,Atala Kamusio,Pests and diseases,1
+ATA_62,Atala Kamusio,Pests and diseases,1
+ATA_63,Atala Kamusio,Pests and diseases,3
+ATA_64,Atala Kamusio,Pests and diseases,3
+ATA_65,Atala Kamusio,Pests and diseases,4
+ATA_66,Atala Kamusio,Pests and diseases,3
+ATA_67,Atala Kamusio,Pests and diseases,2
+ATA_68,Atala Kamusio,Pests and diseases,3
+ATA_69,Atala Kamusio,Pests and diseases,3
+ATA_70,Atala Kamusio,Pests and diseases,3
+ATA_71,Atala Kamusio,Pests and diseases,3
+ATA_72,Atala Kamusio,Pests and diseases,2
+ATA_73,Atala Kamusio,Pests and diseases,4
+ATA_74,Atala Kamusio,Pests and diseases,4
+ATA_75,Atala Kamusio,Pests and diseases,3
+ATA_76,Atala Kamusio,Pests and diseases,4
+ATA_77,Atala Kamusio,Pests and diseases,2
+ATA_78,Atala Kamusio,Pests and diseases,3
+ATA_79,Atala Kamusio,Pests and diseases,4
+ATA_80,Atala Kamusio,Pests and diseases,1
+LOP_1,Lopur,Pests and diseases,2
+LOP_2,Lopur,Pests and diseases,2
+LOP_3,Lopur,Pests and diseases,2
+LOP_4,Lopur,Pests and diseases,3
+LOP_5,Lopur,Pests and diseases,1
+LOP_6,Lopur,Pests and diseases,2
+LOP_7,Lopur,Pests and diseases,2
+LOP_8,Lopur,Pests and diseases,1
+LOP_9,Lopur,Pests and diseases,2
+LOP_10,Lopur,Pests and diseases,3
+LOP_11,Lopur,Pests and diseases,1
+LOP_12,Lopur,Pests and diseases,2
+LOP_13,Lopur,Pests and diseases,3
+LOP_14,Lopur,Pests and diseases,2
+LOP_15,Lopur,Pests and diseases,1
+LOP_16,Lopur,Pests and diseases,2
+LOP_17,Lopur,Pests and diseases,1
+LOP_18,Lopur,Pests and diseases,3
+LOP_19,Lopur,Pests and diseases,3
+LOP_20,Lopur,Pests and diseases,3
+LOP_21,Lopur,Pests and diseases,2
+LOP_22,Lopur,Pests and diseases,2
+LOP_23,Lopur,Pests and diseases,3
+LOP_24,Lopur,Pests and diseases,2
+LOP_25,Lopur,Pests and diseases,2
+LOP_26,Lopur,Pests and diseases,2
+LOP_27,Lopur,Pests and diseases,2
+LOP_28,Lopur,Pests and diseases,2
+LOP_29,Lopur,Pests and diseases,1
+LOP_30,Lopur,Pests and diseases,3
+LOP_31,Lopur,Pests and diseases,1
+LOP_32,Lopur,Pests and diseases,1
+LOP_33,Lopur,Pests and diseases,1
+LOP_34,Lopur,Pests and diseases,3
+LOP_35,Lopur,Pests and diseases,2
+LOP_36,Lopur,Pests and diseases,1
+LOP_37,Lopur,Pests and diseases,1
+LOP_38,Lopur,Pests and diseases,1
+LOP_39,Lopur,Pests and diseases,1
+LOP_40,Lopur,Pests and diseases,1
+LOP_41,Lopur,Pests and diseases,1
+LOP_42,Lopur,Pests and diseases,1
+LOP_43,Lopur,Pests and diseases,1
+LOP_44,Lopur,Pests and diseases,1
+LOP_45,Lopur,Pests and diseases,1
+LOP_46,Lopur,Pests and diseases,1
+LOP_47,Lopur,Pests and diseases,1
+LOP_48,Lopur,Pests and diseases,1
+LOP_49,Lopur,Pests and diseases,1
+LOP_50,Lopur,Pests and diseases,1
+LOP_51,Lopur,Pests and diseases,1
+LOP_52,Lopur,Pests and diseases,1
+LOP_53,Lopur,Pests and diseases,1
+LOP_54,Lopur,Pests and diseases,1
+LOP_55,Lopur,Pests and diseases,1
+LOP_56,Lopur,Pests and diseases,1
+LOP_57,Lopur,Pests and diseases,1
+LOP_58,Lopur,Pests and diseases,1
+LOP_59,Lopur,Pests and diseases,1
+LOP_60,Lopur,Pests and diseases,1
+LOP_61,Lopur,Pests and diseases,1
+LOP_62,Lopur,Pests and diseases,1
+LOP_63,Lopur,Pests and diseases,1
+LOP_64,Lopur,Pests and diseases,1
+LOP_65,Lopur,Pests and diseases,1
+LOP_66,Lopur,Pests and diseases,1
+LOP_67,Lopur,Pests and diseases,1
+LOP_68,Lopur,Pests and diseases,2
+LOP_69,Lopur,Pests and diseases,3
+LOP_70,Lopur,Pests and diseases,3
+LOP_71,Lopur,Pests and diseases,3
+LOP_72,Lopur,Pests and diseases,3
+LOP_73,Lopur,Pests and diseases,1
+LOP_74,Lopur,Pests and diseases,1
+LOP_75,Lopur,Pests and diseases,3
+LOP_76,Lopur,Pests and diseases,1
+LOP_77,Lopur,Pests and diseases,1
+LOP_78,Lopur,Pests and diseases,2
+LOP_79,Lopur,Pests and diseases,3
+LOP_80,Lopur,Pests and diseases,1
+"NAS_1",Nasiger,Others,1
+"NAS_2",Nasiger,Others,1
+"NAS_3",Nasiger,Others,1
+"NAS_4",Nasiger,Others,1
+"NAS_5",Nasiger,Others,1
+"NAS_6",Nasiger,Others,1
+"NAS_7",Nasiger,Others,1
+"NAS_8",Nasiger,Others,1
+"NAS_9",Nasiger,Others,1
+"NAS_10",Nasiger,Others,1
+"NAS_11",Nasiger,Others,1
+"NAS_12",Nasiger,Others,1
+"NAS_13",Nasiger,Others,1
+"NAS_14",Nasiger,Others,2
+"NAS_15",Nasiger,Others,2
+"NAS_16",Nasiger,Others,2
+"NAS_17",Nasiger,Others,1
+"NAS_18",Nasiger,Others,2
+"NAS_19",Nasiger,Others,1
+"NAS_20",Nasiger,Others,1
+"NAS_21",Nasiger,Others,2
+"NAS_22",Nasiger,Others,2
+"NAS_23",Nasiger,Others,2
+"NAS_24",Nasiger,Others,1
+"NAS_25",Nasiger,Others,2
+"NAS_26",Nasiger,Others,2
+"NAS_27",Nasiger,Others,2
+"NAS_28",Nasiger,Others,2
+"NAS_29",Nasiger,Others,2
+"NAS_30",Nasiger,Others,1
+"NAS_31",Nasiger,Others,1
+"NAS_32",Nasiger,Others,2
+"NAS_33",Nasiger,Others,2
+"NAS_34",Nasiger,Others,1
+"NAS_35",Nasiger,Others,2
+"NAS_36",Nasiger,Others,1
+"NAS_37",Nasiger,Others,1
+"NAS_38",Nasiger,Others,1
+"NAS_39",Nasiger,Others,1
+"NAS_40",Nasiger,Others,1
+"NAS_41",Nasiger,Others,1
+"NAS_42",Nasiger,Others,1
+"NAS_43",Nasiger,Others,1
+"NAS_44",Nasiger,Others,1
+"NAS_45",Nasiger,Others,1
+"NAS_46",Nasiger,Others,1
+"NAS_47",Nasiger,Others,1
+"NAS_48",Nasiger,Others,2
+"NAS_49",Nasiger,Others,1
+"NAS_50",Nasiger,Others,2
+"NAS_51",Nasiger,Others,1
+"NAS_52",Nasiger,Others,2
+"NAS_53",Nasiger,Others,1
+"NAS_54",Nasiger,Others,1
+"NAS_55",Nasiger,Others,1
+"NAS_56",Nasiger,Others,1
+"NAS_57",Nasiger,Others,1
+"NAS_58",Nasiger,Others,1
+"NAS_59",Nasiger,Others,1
+"NAS_60",Nasiger,Others,1
+"NAS_61",Nasiger,Others,1
+"NAS_62",Nasiger,Others,1
+"NAS_63",Nasiger,Others,1
+"NAS_64",Nasiger,Others,1
+"NAS_65",Nasiger,Others,1
+"NAS_66",Nasiger,Others,1
+"NAS_67",Nasiger,Others,1
+"NAS_68",Nasiger,Others,1
+"NAS_69",Nasiger,Others,1
+"NAS_70",Nasiger,Others,2
+"NAS_71",Nasiger,Others,1
+"NAS_72",Nasiger,Others,1
+"NAS_73",Nasiger,Others,2
+"NAS_74",Nasiger,Others,1
+"NAS_75",Nasiger,Others,2
+"NAS_76",Nasiger,Others,1
+"NAS_77",Nasiger,Others,2
+"NAS_78",Nasiger,Others,1
+"NAS_79",Nasiger,Others,1
+"NAS_80",Nasiger,Others,1
+ATA_1,Atala Kamusio,Others,1
+ATA_2,Atala Kamusio,Others,1
+ATA_3,Atala Kamusio,Others,1
+ATA_4,Atala Kamusio,Others,1
+ATA_5,Atala Kamusio,Others,1
+ATA_6,Atala Kamusio,Others,1
+ATA_7,Atala Kamusio,Others,1
+ATA_8,Atala Kamusio,Others,1
+ATA_9,Atala Kamusio,Others,1
+ATA_10,Atala Kamusio,Others,1
+ATA_11,Atala Kamusio,Others,1
+ATA_12,Atala Kamusio,Others,1
+ATA_13,Atala Kamusio,Others,1
+ATA_14,Atala Kamusio,Others,1
+ATA_15,Atala Kamusio,Others,1
+ATA_16,Atala Kamusio,Others,1
+ATA_17,Atala Kamusio,Others,1
+ATA_18,Atala Kamusio,Others,1
+ATA_19,Atala Kamusio,Others,1
+ATA_20,Atala Kamusio,Others,2
+ATA_21,Atala Kamusio,Others,1
+ATA_22,Atala Kamusio,Others,1
+ATA_23,Atala Kamusio,Others,1
+ATA_24,Atala Kamusio,Others,1
+ATA_25,Atala Kamusio,Others,1
+ATA_26,Atala Kamusio,Others,1
+ATA_27,Atala Kamusio,Others,1
+ATA_28,Atala Kamusio,Others,1
+ATA_29,Atala Kamusio,Others,1
+ATA_30,Atala Kamusio,Others,1
+ATA_31,Atala Kamusio,Others,1
+ATA_32,Atala Kamusio,Others,1
+ATA_33,Atala Kamusio,Others,1
+ATA_34,Atala Kamusio,Others,1
+ATA_35,Atala Kamusio,Others,1
+ATA_36,Atala Kamusio,Others,1
+ATA_37,Atala Kamusio,Others,2
+ATA_38,Atala Kamusio,Others,1
+ATA_39,Atala Kamusio,Others,1
+ATA_40,Atala Kamusio,Others,1
+ATA_41,Atala Kamusio,Others,1
+ATA_42,Atala Kamusio,Others,1
+ATA_43,Atala Kamusio,Others,1
+ATA_44,Atala Kamusio,Others,1
+ATA_45,Atala Kamusio,Others,1
+ATA_46,Atala Kamusio,Others,1
+ATA_47,Atala Kamusio,Others,1
+ATA_48,Atala Kamusio,Others,2
+ATA_49,Atala Kamusio,Others,1
+ATA_50,Atala Kamusio,Others,1
+ATA_51,Atala Kamusio,Others,1
+ATA_52,Atala Kamusio,Others,1
+ATA_53,Atala Kamusio,Others,1
+ATA_54,Atala Kamusio,Others,1
+ATA_55,Atala Kamusio,Others,1
+ATA_56,Atala Kamusio,Others,1
+ATA_57,Atala Kamusio,Others,1
+ATA_58,Atala Kamusio,Others,1
+ATA_59,Atala Kamusio,Others,1
+ATA_60,Atala Kamusio,Others,1
+ATA_61,Atala Kamusio,Others,1
+ATA_62,Atala Kamusio,Others,1
+ATA_63,Atala Kamusio,Others,1
+ATA_64,Atala Kamusio,Others,1
+ATA_65,Atala Kamusio,Others,1
+ATA_66,Atala Kamusio,Others,1
+ATA_67,Atala Kamusio,Others,1
+ATA_68,Atala Kamusio,Others,1
+ATA_69,Atala Kamusio,Others,1
+ATA_70,Atala Kamusio,Others,1
+ATA_71,Atala Kamusio,Others,1
+ATA_72,Atala Kamusio,Others,1
+ATA_73,Atala Kamusio,Others,1
+ATA_74,Atala Kamusio,Others,1
+ATA_75,Atala Kamusio,Others,1
+ATA_76,Atala Kamusio,Others,1
+ATA_77,Atala Kamusio,Others,1
+ATA_78,Atala Kamusio,Others,1
+ATA_79,Atala Kamusio,Others,1
+ATA_80,Atala Kamusio,Others,1
+LOP_1,Lopur,Others,1
+LOP_2,Lopur,Others,1
+LOP_3,Lopur,Others,1
+LOP_4,Lopur,Others,1
+LOP_5,Lopur,Others,1
+LOP_6,Lopur,Others,1
+LOP_7,Lopur,Others,1
+LOP_8,Lopur,Others,1
+LOP_9,Lopur,Others,1
+LOP_10,Lopur,Others,1
+LOP_11,Lopur,Others,1
+LOP_12,Lopur,Others,1
+LOP_13,Lopur,Others,1
+LOP_14,Lopur,Others,1
+LOP_15,Lopur,Others,1
+LOP_16,Lopur,Others,1
+LOP_17,Lopur,Others,1
+LOP_18,Lopur,Others,1
+LOP_19,Lopur,Others,1
+LOP_20,Lopur,Others,1
+LOP_21,Lopur,Others,1
+LOP_22,Lopur,Others,1
+LOP_23,Lopur,Others,1
+LOP_24,Lopur,Others,1
+LOP_25,Lopur,Others,1
+LOP_26,Lopur,Others,1
+LOP_27,Lopur,Others,1
+LOP_28,Lopur,Others,1
+LOP_29,Lopur,Others,1
+LOP_30,Lopur,Others,1
+LOP_31,Lopur,Others,1
+LOP_32,Lopur,Others,1
+LOP_33,Lopur,Others,1
+LOP_34,Lopur,Others,1
+LOP_35,Lopur,Others,1
+LOP_36,Lopur,Others,1
+LOP_37,Lopur,Others,1
+LOP_38,Lopur,Others,1
+LOP_39,Lopur,Others,1
+LOP_40,Lopur,Others,1
+LOP_41,Lopur,Others,1
+LOP_42,Lopur,Others,1
+LOP_43,Lopur,Others,1
+LOP_44,Lopur,Others,1
+LOP_45,Lopur,Others,1
+LOP_46,Lopur,Others,1
+LOP_47,Lopur,Others,1
+LOP_48,Lopur,Others,1
+LOP_49,Lopur,Others,1
+LOP_50,Lopur,Others,1
+LOP_51,Lopur,Others,1
+LOP_52,Lopur,Others,1
+LOP_53,Lopur,Others,1
+LOP_54,Lopur,Others,1
+LOP_55,Lopur,Others,1
+LOP_56,Lopur,Others,1
+LOP_57,Lopur,Others,1
+LOP_58,Lopur,Others,1
+LOP_59,Lopur,Others,1
+LOP_60,Lopur,Others,1
+LOP_61,Lopur,Others,1
+LOP_62,Lopur,Others,1
+LOP_63,Lopur,Others,1
+LOP_64,Lopur,Others,1
+LOP_65,Lopur,Others,1
+LOP_66,Lopur,Others,2
+LOP_67,Lopur,Others,1
+LOP_68,Lopur,Others,1
+LOP_69,Lopur,Others,1
+LOP_70,Lopur,Others,1
+LOP_71,Lopur,Others,1
+LOP_72,Lopur,Others,1
+LOP_73,Lopur,Others,1
+LOP_74,Lopur,Others,1
+LOP_75,Lopur,Others,1
+LOP_76,Lopur,Others,1
+LOP_77,Lopur,Others,2
+LOP_78,Lopur,Others,1
+LOP_79,Lopur,Others,1
+LOP_80,Lopur,Others,1
