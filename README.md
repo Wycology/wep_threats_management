@@ -8,3 +8,5 @@ Data are available in the data folder. In that folder:
 3. field_threats.csv is dataset containing scores of threats from field plot observations in each of the three study community units in Turkana County, Kenya.
 
 In the output folder, there are plots generated from the dataset.
+
+In the scrips folder, there is an R script used to analyze the data and generate the results including plots.
